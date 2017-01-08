@@ -1,0 +1,78 @@
+********** GEANT4 *********
+SheppLoganSim
+- Shepp Logan phantom in a proton CT set up
+- ./model <noOfProtons> <angleID>
+- <angleID> => angle of rotation = angleID * (360/720) * (pi/180) radians
+- output saved as out<angleID>...csv
+- used to assess accuracy - define materials in phantom and then run pCT simulation. Choose ROI within phantom, find mean RSP, compare to ground truth
+
+SheppLogan2D
+- Shepp Logan phantom, no CT
+
+Rods
+- cylindrical water phantom containing 24 rods spiraling out of centre, within a proton CT set up
+- ./model <noOfProtons> <angleID>
+- <angleID> => angle of rotation = angleID * (360/720) * (pi/180) radians
+- output saved as out<angleID>...csv
+- used to assess spatial resolution. See Rit's paper on list mode proton CT data with hilbert transform / see Billy's paper on the comparison of the backprojection-then-filtering algorithm vs hilbert transform algorithm for explanation.
+
+RSP
+- to find stopping power / relative stopping power in a material at a certain energy
+- define the material and energies to loop through in rsp.in
+- output saved to out_nt_Model.csv : energy in 1st column, stopping power in 2nd column
+- to find RSP run for water and whatever other material and simply take the ratio of stopping powers
+- good to check whether RSP is dependent on energy
+
+ComputeBeta
+- for finding the proton most likely path, need to fit 1/(\beta^2 p^2) to a 5th degree polynomial
+- This shoots protons through water and saves KE, pos, mom, velocity, mass (?), total energy, mom direction, and \beta. Clearly more data than needed to perform the fit!
+- I used matlab to fit the data to a 5th degree polynomial
+
+
+SlitModel
+- proton CT set up with elliptical phantom consisting of slits of air/bone in water of varying width - helpful to assess spatial resolution
+- ./model rotate.mac (change rotate.mac accordingly: variable i corresponds to rotation of phantom in degs)
+
+EdgeModel
+- proton CT set up with elliptical phantom consisting of a cube of air/bone in water - used to assess spatial resoltuion and modulation transfer function through the edge response
+
+
+****** MATLAB WORK **********
+
+BPF
+
+bpFilterSq.m
+- filtering of backprojection matrix
+- arguments: bp = backprojection matrix (Square), params = struct, params.rho1 = left most point (in mm) of bp matrix, params.rho2 = right most point (in mm) of bp matrix, params.step = dimension of each pixel, N = zero padding, choose something big(ish) ~ 2048 or 4096.
+
+stvh.m, stvh0.m, stvh1.m - functions for calculating Struve functions used in bpFilterSq
+
+executeEdgeModelLine.m
+executeEdgeModelCubic.m
+executeEdgeModelMLP.m
+- example scripts of how backprojection was performed using MATLAB. NB: it's considerably slower than the C++ equivalent!
+
+CubicSpline.m - find cubic spline path coefficients
+mlp2.m - compute most likely path
+lineEllipse.m - find interesection of proton with an ellipse based on detector measurements
+myradonBig - find intersection of proton path with voxels based - pathlength through voxel + indices of voxel.
+
+
+HBP
+
+hilbert.m (script)
+- inverse hilbert transform, row by row, of a bp matrix (defined as bpSum)
+
+
+Resolution
+
+rodResolution.m
+- find spatial resolution from rod phantom by resampling radial profiles about 1 degree intervals at the centre of the rods in the rod phantom. Fit radial profiles to an err function to find standard deviation
+
+
+***** C++ WORK ***********
+
+BPF-HBP folder
+- needs tidying up and organising, but find the backprojection matrix from each projection angle given a projection file as defined in GEANT4 simulations and WEPL calculator! (proj<angleID>.csv)
+
+

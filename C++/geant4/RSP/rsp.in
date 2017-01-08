@@ -1,0 +1,10 @@
+/control/verbose 0
+/run/verbose 0
+
+/run/initialize
+/process/eLoss/verbose 0
+
+/testem/det/setMat G4_Al
+/gun/particle proton
+
+/control/loop rspsim.in i 1.0 350.0 1.0

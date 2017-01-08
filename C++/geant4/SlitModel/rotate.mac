@@ -1,0 +1,10 @@
+/control/verbose 0
+/control/saveHistory
+/run/verbose 0
+#
+# Change the default number of threads (in multi-threaded mode)
+#/run/numberOfThreads 4
+#
+# Initialize kernel
+/run/initialize
+/control/loop sim.mac i 0.0 179.0 1.0
