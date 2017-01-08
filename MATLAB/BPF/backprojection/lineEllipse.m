@@ -1,0 +1,91 @@
+% function finds intersect of proton with ellipse
+% A = [x, y] as measured by entry detector 
+% B = [x, y] as measured by exit detector
+% entryAngle and exitAngle as measured by detectors
+% a, b, semi major and minor axis of ellipse
+% phi = rotation of phantom
+function [inter] = lineEllipse(A, entryAngle, B, exitAngle, a, b, phi)
+% our ellipse is a = 7, b = 8
+% phi is a rotation clockwise
+
+inter.cut = true;
+%A = [-13 0];
+%B = [13 0];
+%dirVec = (B - A)/norm(B - A); % direction vector from entry (A) to exit (B)
+dirVecA = [cos(entryAngle) sin(entryAngle)];
+%a = 7; b = 8;%8; % major and minor axis
+
+% find the roots
+%phi = 0;%   pi/4;
+%phi = pi/180 * 30;
+cosphia2 = (cos(phi)/a)^2;
+cosphib2 = (cos(phi)/b)^2;
+sinphia2 = (sin(phi)/a)^2;
+sinphib2 = (sin(phi)/b)^2;
+a1 = dirVecA(1)^2 * ( cosphia2 + sinphib2 ) + dirVecA(2)^2 * ( sinphia2 + cosphib2) ...
+    - 2 * cos(phi) * sin(phi) * (1 / a^2 - 1/b^2) * dirVecA(1) * dirVecA(2);
+
+a2 = 2 * A(1) * dirVecA(1) * (cosphia2 + sinphib2) + 2 * A(2) * dirVecA(2) * (sinphia2 + cosphib2) ...
+    - 2 * cos(phi) * sin(phi) * (1/a^2 - 1/b^2) * (A(1) * dirVecA(2) + dirVecA(1) * A(2));
+
+a3 = A(1)^2 * (cosphia2 + sinphib2) + A(2)^2 * (sinphia2 + cosphib2) - 2*cos(phi)*sin(phi)*(1/a^2 - 1/b^2) * A(1)*A(2) -1;
+
+% up until here we only need to compute this once per angle
+% when looking for intersection
+% NOT TRUE! A and B change (and dirVec) change
+
+rts = roots([a1 a2 a3]);
+
+%rts = unique(rts); % sorts it and removes duplicates
+
+%check that you don't have complex solutions and you have more than 1
+%positive solution
+if (isreal(rts)) && (all(rts > 0))
+    d = min(rts);
+    inter.x1 = A(1) + dirVecA(1) * d;
+    inter.y1 = A(2) + dirVecA(2) * d;
+else
+    inter.cut = false;
+    return;
+end
+
+dirVecB = [cos(exitAngle) sin(exitAngle)];
+a1 = dirVecB(1)^2 * ( cosphia2 + sinphib2 ) + dirVecB(2)^2 * ( sinphia2 + cosphib2) ...
+    - 2 * cos(phi) * sin(phi) * (1 / a^2 - 1/b^2) * dirVecB(1) * dirVecB(2);
+
+a2 = 2 * B(1) * dirVecB(1) * (cosphia2 + sinphib2) + 2 * B(2) * dirVecB(2) * (sinphia2 + cosphib2) ...
+    - 2 * cos(phi) * sin(phi) * (1/a^2 - 1/b^2) * (B(1) * dirVecB(2) + dirVecB(1) * B(2));
+
+a3 = B(1)^2 * (cosphia2 + sinphib2) + B(2)^2 * (sinphia2 + cosphib2) - 2*cos(phi)*sin(phi)*(1/a^2 - 1/b^2) * B(1)*B(2) -1;
+
+rts = roots([a1 a2 a3]);
+
+%rts = unique(rts);
+
+if (isreal(rts))  &&  (all(rts<0))
+    d = max(rts);
+    inter.x2 = B(1) + dirVecB(1) * d; %rts(1);
+    inter.y2 = B(2) + dirVecB(2) * d; %rts(1);
+else
+    inter.cut = false;
+    return;
+end
+
+% figure;
+% xCenter = 0;
+% yCenter = 0;
+% xRadius = a;
+% yRadius = b;%8;
+% theta = 0 : 0.01 : 2*pi;
+% xp = xRadius * cos(theta) + xCenter;
+% yp = yRadius * sin(theta) + yCenter;
+% plot(xp * cos(phi) + yp * sin(phi), - xp * sin(phi) + yp * cos(phi), 'LineWidth', 1);
+% %axis square;
+% hold on
+% plot(inter.x1, inter.y1, 'b--o');
+% plot(inter.x2, inter.y2, 'b--o');
+% t = 0:0.1:100;
+
+%plot(A(1)+dirVecA(1)*t, A(2) + dirVecA(2)*t)
+%plot(B(1)+dirVecB(1)*-t, B(2) + dirVecB(2)*-t)
+%axis([-10 10 -10 10]);

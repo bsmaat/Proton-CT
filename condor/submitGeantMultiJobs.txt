@@ -1,0 +1,20 @@
+Universe = vanilla
+requirements = (Opsys == "LINUX" && Arch == "X86_64" && HAS_GEANT4_10_2==true)
+rank = Memory
+request_memory = 500
+
+Log = geant.$(Process).log
+Output=geant.$(Process).out
+Error = geant.$(Process).error
+notification = error
+
+WhenToTransferOutput = ON_EXIT
+ShouldTransferFiles = Yes
+
+executable = run_geant.sh
+arguments = $(Process) 400000
+
+transfer_input_files = model,run_geant.sh
+
+Queue 720
+

@@ -1,0 +1,20 @@
+Universe = vanilla
+requirements = (Opsys == "LINUX" && Arch == "X86_64" && HAS_MATLAB_2013=?=True)
+rank = Memory
+request_memory = 500
+
+Log = matlab.$(Process).log
+Output=matlab$(Process).out
+Error = matlab$(Process).error
+notification = error
+
+WhenToTransferOutput = ON_EXIT
+ShouldTransferFiles = Yes
+
+executable = run_WEPL.sh
+arguments = /opt/MATLAB/MATLAB_Compiler_Runtime/v81/ $(Process)
+
+transfer_input_files = WEPL,run_WEPL.sh,out$(Process)_nt_Model.csv
+
+Queue 720
+

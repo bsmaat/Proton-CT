@@ -1,0 +1,20 @@
+Universe = vanilla
+requirements = (Opsys == "LINUX" && Arch == "X86_64")
+rank = Memory
+request_memory = 400
+
+Log = BPFMod.$(Process).log
+Output=BPFMod.$(Process).out
+Error = BPFMod.$(Process).error
+notification = error
+
+WhenToTransferOutput = ON_EXIT
+ShouldTransferFiles = Yes
+
+executable = BPFMod
+arguments = $(Process)
+
+transfer_input_files = BPFMod,proj$(Process).csv
+
+Queue 720
+
