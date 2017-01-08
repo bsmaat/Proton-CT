@@ -1,0 +1,1207 @@
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.10.1)  18 AUG 2016 13:39
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**report.tex
+(./report.tex
+LaTeX2e <2011/06/27>
+Babel <3.9h> and hyphenation patterns for 78 languages loaded.
+(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size11.clo
+File: size11.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2008/03/30 v1.1d Input encoding file
+\inpenc@prehook=\toks14
+\inpenc@posthook=\toks15
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/utf8.def
+File: utf8.def 2008/04/05 v1.1m UTF-8 support for inputenc
+Now handling font encoding OML ...
+... no UTF-8 mapping file for font encoding OML
+Now handling font encoding T1 ...
+... processing UTF-8 mapping file for font encoding T1
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/t1enc.dfu
+File: t1enc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
+   defining Unicode char U+00A1 (decimal 161)
+   defining Unicode char U+00A3 (decimal 163)
+   defining Unicode char U+00AB (decimal 171)
+   defining Unicode char U+00BB (decimal 187)
+   defining Unicode char U+00BF (decimal 191)
+   defining Unicode char U+00C0 (decimal 192)
+   defining Unicode char U+00C1 (decimal 193)
+   defining Unicode char U+00C2 (decimal 194)
+   defining Unicode char U+00C3 (decimal 195)
+   defining Unicode char U+00C4 (decimal 196)
+   defining Unicode char U+00C5 (decimal 197)
+   defining Unicode char U+00C6 (decimal 198)
+   defining Unicode char U+00C7 (decimal 199)
+   defining Unicode char U+00C8 (decimal 200)
+   defining Unicode char U+00C9 (decimal 201)
+   defining Unicode char U+00CA (decimal 202)
+   defining Unicode char U+00CB (decimal 203)
+   defining Unicode char U+00CC (decimal 204)
+   defining Unicode char U+00CD (decimal 205)
+   defining Unicode char U+00CE (decimal 206)
+   defining Unicode char U+00CF (decimal 207)
+   defining Unicode char U+00D0 (decimal 208)
+   defining Unicode char U+00D1 (decimal 209)
+   defining Unicode char U+00D2 (decimal 210)
+   defining Unicode char U+00D3 (decimal 211)
+   defining Unicode char U+00D4 (decimal 212)
+   defining Unicode char U+00D5 (decimal 213)
+   defining Unicode char U+00D6 (decimal 214)
+   defining Unicode char U+00D8 (decimal 216)
+   defining Unicode char U+00D9 (decimal 217)
+   defining Unicode char U+00DA (decimal 218)
+   defining Unicode char U+00DB (decimal 219)
+   defining Unicode char U+00DC (decimal 220)
+   defining Unicode char U+00DD (decimal 221)
+   defining Unicode char U+00DE (decimal 222)
+   defining Unicode char U+00DF (decimal 223)
+   defining Unicode char U+00E0 (decimal 224)
+   defining Unicode char U+00E1 (decimal 225)
+   defining Unicode char U+00E2 (decimal 226)
+   defining Unicode char U+00E3 (decimal 227)
+   defining Unicode char U+00E4 (decimal 228)
+   defining Unicode char U+00E5 (decimal 229)
+   defining Unicode char U+00E6 (decimal 230)
+   defining Unicode char U+00E7 (decimal 231)
+   defining Unicode char U+00E8 (decimal 232)
+   defining Unicode char U+00E9 (decimal 233)
+   defining Unicode char U+00EA (decimal 234)
+   defining Unicode char U+00EB (decimal 235)
+   defining Unicode char U+00EC (decimal 236)
+   defining Unicode char U+00ED (decimal 237)
+   defining Unicode char U+00EE (decimal 238)
+   defining Unicode char U+00EF (decimal 239)
+   defining Unicode char U+00F0 (decimal 240)
+   defining Unicode char U+00F1 (decimal 241)
+   defining Unicode char U+00F2 (decimal 242)
+   defining Unicode char U+00F3 (decimal 243)
+   defining Unicode char U+00F4 (decimal 244)
+   defining Unicode char U+00F5 (decimal 245)
+   defining Unicode char U+00F6 (decimal 246)
+   defining Unicode char U+00F8 (decimal 248)
+   defining Unicode char U+00F9 (decimal 249)
+   defining Unicode char U+00FA (decimal 250)
+   defining Unicode char U+00FB (decimal 251)
+   defining Unicode char U+00FC (decimal 252)
+   defining Unicode char U+00FD (decimal 253)
+   defining Unicode char U+00FE (decimal 254)
+   defining Unicode char U+00FF (decimal 255)
+   defining Unicode char U+0102 (decimal 258)
+   defining Unicode char U+0103 (decimal 259)
+   defining Unicode char U+0104 (decimal 260)
+   defining Unicode char U+0105 (decimal 261)
+   defining Unicode char U+0106 (decimal 262)
+   defining Unicode char U+0107 (decimal 263)
+   defining Unicode char U+010C (decimal 268)
+   defining Unicode char U+010D (decimal 269)
+   defining Unicode char U+010E (decimal 270)
+   defining Unicode char U+010F (decimal 271)
+   defining Unicode char U+0110 (decimal 272)
+   defining Unicode char U+0111 (decimal 273)
+   defining Unicode char U+0118 (decimal 280)
+   defining Unicode char U+0119 (decimal 281)
+   defining Unicode char U+011A (decimal 282)
+   defining Unicode char U+011B (decimal 283)
+   defining Unicode char U+011E (decimal 286)
+   defining Unicode char U+011F (decimal 287)
+   defining Unicode char U+0130 (decimal 304)
+   defining Unicode char U+0131 (decimal 305)
+   defining Unicode char U+0132 (decimal 306)
+   defining Unicode char U+0133 (decimal 307)
+   defining Unicode char U+0139 (decimal 313)
+   defining Unicode char U+013A (decimal 314)
+   defining Unicode char U+013D (decimal 317)
+   defining Unicode char U+013E (decimal 318)
+   defining Unicode char U+0141 (decimal 321)
+   defining Unicode char U+0142 (decimal 322)
+   defining Unicode char U+0143 (decimal 323)
+   defining Unicode char U+0144 (decimal 324)
+   defining Unicode char U+0147 (decimal 327)
+   defining Unicode char U+0148 (decimal 328)
+   defining Unicode char U+014A (decimal 330)
+   defining Unicode char U+014B (decimal 331)
+   defining Unicode char U+0150 (decimal 336)
+   defining Unicode char U+0151 (decimal 337)
+   defining Unicode char U+0152 (decimal 338)
+   defining Unicode char U+0153 (decimal 339)
+   defining Unicode char U+0154 (decimal 340)
+   defining Unicode char U+0155 (decimal 341)
+   defining Unicode char U+0158 (decimal 344)
+   defining Unicode char U+0159 (decimal 345)
+   defining Unicode char U+015A (decimal 346)
+   defining Unicode char U+015B (decimal 347)
+   defining Unicode char U+015E (decimal 350)
+   defining Unicode char U+015F (decimal 351)
+   defining Unicode char U+0160 (decimal 352)
+   defining Unicode char U+0161 (decimal 353)
+   defining Unicode char U+0162 (decimal 354)
+   defining Unicode char U+0163 (decimal 355)
+   defining Unicode char U+0164 (decimal 356)
+   defining Unicode char U+0165 (decimal 357)
+   defining Unicode char U+016E (decimal 366)
+   defining Unicode char U+016F (decimal 367)
+   defining Unicode char U+0170 (decimal 368)
+   defining Unicode char U+0171 (decimal 369)
+   defining Unicode char U+0178 (decimal 376)
+   defining Unicode char U+0179 (decimal 377)
+   defining Unicode char U+017A (decimal 378)
+   defining Unicode char U+017B (decimal 379)
+   defining Unicode char U+017C (decimal 380)
+   defining Unicode char U+017D (decimal 381)
+   defining Unicode char U+017E (decimal 382)
+   defining Unicode char U+200C (decimal 8204)
+   defining Unicode char U+2013 (decimal 8211)
+   defining Unicode char U+2014 (decimal 8212)
+   defining Unicode char U+2018 (decimal 8216)
+   defining Unicode char U+2019 (decimal 8217)
+   defining Unicode char U+201A (decimal 8218)
+   defining Unicode char U+201C (decimal 8220)
+   defining Unicode char U+201D (decimal 8221)
+   defining Unicode char U+201E (decimal 8222)
+   defining Unicode char U+2030 (decimal 8240)
+   defining Unicode char U+2031 (decimal 8241)
+   defining Unicode char U+2039 (decimal 8249)
+   defining Unicode char U+203A (decimal 8250)
+   defining Unicode char U+2423 (decimal 9251)
+)
+Now handling font encoding OT1 ...
+... processing UTF-8 mapping file for font encoding OT1
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/ot1enc.dfu
+File: ot1enc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
+   defining Unicode char U+00A1 (decimal 161)
+   defining Unicode char U+00A3 (decimal 163)
+   defining Unicode char U+00B8 (decimal 184)
+   defining Unicode char U+00BF (decimal 191)
+   defining Unicode char U+00C5 (decimal 197)
+   defining Unicode char U+00C6 (decimal 198)
+   defining Unicode char U+00D8 (decimal 216)
+   defining Unicode char U+00DF (decimal 223)
+   defining Unicode char U+00E6 (decimal 230)
+   defining Unicode char U+00EC (decimal 236)
+   defining Unicode char U+00ED (decimal 237)
+   defining Unicode char U+00EE (decimal 238)
+   defining Unicode char U+00EF (decimal 239)
+   defining Unicode char U+00F8 (decimal 248)
+   defining Unicode char U+0131 (decimal 305)
+   defining Unicode char U+0141 (decimal 321)
+   defining Unicode char U+0142 (decimal 322)
+   defining Unicode char U+0152 (decimal 338)
+   defining Unicode char U+0153 (decimal 339)
+   defining Unicode char U+2013 (decimal 8211)
+   defining Unicode char U+2014 (decimal 8212)
+   defining Unicode char U+2018 (decimal 8216)
+   defining Unicode char U+2019 (decimal 8217)
+   defining Unicode char U+201C (decimal 8220)
+   defining Unicode char U+201D (decimal 8221)
+)
+Now handling font encoding OMS ...
+... processing UTF-8 mapping file for font encoding OMS
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/omsenc.dfu
+File: omsenc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
+   defining Unicode char U+00A7 (decimal 167)
+   defining Unicode char U+00B6 (decimal 182)
+   defining Unicode char U+00B7 (decimal 183)
+   defining Unicode char U+2020 (decimal 8224)
+   defining Unicode char U+2021 (decimal 8225)
+   defining Unicode char U+2022 (decimal 8226)
+)
+Now handling font encoding OMX ...
+... no UTF-8 mapping file for font encoding OMX
+Now handling font encoding U ...
+... no UTF-8 mapping file for font encoding U
+   defining Unicode char U+00A9 (decimal 169)
+   defining Unicode char U+00AA (decimal 170)
+   defining Unicode char U+00AE (decimal 174)
+   defining Unicode char U+00BA (decimal 186)
+   defining Unicode char U+02C6 (decimal 710)
+   defining Unicode char U+02DC (decimal 732)
+   defining Unicode char U+200C (decimal 8204)
+   defining Unicode char U+2026 (decimal 8230)
+   defining Unicode char U+2122 (decimal 8482)
+   defining Unicode char U+2423 (decimal 9251)
+))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2013/01/14 v2.14 AMS math features
+\@mathmargin=\skip43
+
+For additional information on amsmath, use the `?' option.
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks16
+\ex@=\dimen103
+))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen104
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count87
+LaTeX Info: Redefining \frac on input line 210.
+\uproot@=\count88
+\leftroot@=\count89
+LaTeX Info: Redefining \overline on input line 306.
+\classnum@=\count90
+\DOTSCASE@=\count91
+LaTeX Info: Redefining \ldots on input line 378.
+LaTeX Info: Redefining \dots on input line 381.
+LaTeX Info: Redefining \cdots on input line 466.
+\Mathstrutbox@=\box26
+\strutbox@=\box27
+\big@size=\dimen105
+LaTeX Font Info:    Redeclaring font encoding OML on input line 566.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
+\macc@depth=\count92
+\c@MaxMatrixCols=\count93
+\dotsspace@=\muskip10
+\c@parentequation=\count94
+\dspbrk@lvl=\count95
+\tag@help=\toks17
+\row@=\count96
+\column@=\count97
+\maxfields@=\count98
+\andhelp@=\toks18
+\eqnshift@=\dimen106
+\alignsep@=\dimen107
+\tagshift@=\dimen108
+\tagwidth@=\dimen109
+\totwidth@=\dimen110
+\lineht@=\dimen111
+\@envbody=\toks19
+\multlinegap=\skip44
+\multlinetaggap=\skip45
+\mathdisplay@stack=\toks20
+LaTeX Info: Redefining \[ on input line 2665.
+LaTeX Info: Redefining \] on input line 2666.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks21
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+(/usr/share/texlive/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count99
+))
+\Gin@req@height=\dimen112
+\Gin@req@width=\dimen113
+)
+(/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2010/09/12 v5.6 Page Geometry
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifvtex.sty
+Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+(/usr/share/texlive/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count100
+\Gm@cntv=\count101
+\c@Gm@tempcnt=\count102
+\Gm@bindingoffset=\dimen114
+\Gm@wd@mp=\dimen115
+\Gm@odd@mp=\dimen116
+\Gm@even@mp=\dimen117
+\Gm@layoutwidth=\dimen118
+\Gm@layoutheight=\dimen119
+\Gm@layouthoffset=\dimen120
+\Gm@layoutvoffset=\dimen121
+\Gm@dimlist=\toks22
+)
+(/usr/share/texlive/texmf-dist/tex/latex/lipsum/lipsum.sty
+Package: lipsum 2011/04/14 v1.2 150 paragraphs of Lorem Ipsum dummy text
+\c@lips@count=\count103
+)
+(/usr/share/texlive/texmf-dist/tex/latex/rotating/rotating.sty
+Package: rotating 2009/03/28 v2.16a rotated objects in LaTeX
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
+)
+\c@r@tfl@t=\count104
+\rotFPtop=\skip46
+\rotFPbot=\skip47
+\rot@float@box=\box28
+\rot@mess@toks=\toks23
+)
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf.sty
+Package: epstopdf 2010/02/09 v2.5 Conversion with epstopdf on the fly (HO)
+
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
+
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+))
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 452.
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+)))
+(/usr/share/texlive/texmf-dist/tex/latex/natbib/natbib.sty
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip48
+\bibsep=\skip49
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count105
+)
+(/usr/share/texlive/texmf-dist/tex/latex/appendix/appendix.sty
+Package: appendix 2009/09/02 v1.2b extra appendix facilities
+\c@@pps=\count106
+\c@@ppsavesec=\count107
+\c@@ppsaveapp=\count108
+)
+(/usr/share/texlive/texmf-dist/tex/latex/caption/subcaption.sty
+Package: subcaption 2013/02/03 v1.1-62 Sub-captions (AR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2013/05/02 v3.3-89 Customizing captions (AR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2013/05/02 v1.6-88 caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 57.
+\captionmargin=\dimen122
+\captionmargin@=\dimen123
+\captionwidth=\dimen124
+\caption@tempdima=\dimen125
+\caption@indent=\dimen126
+\caption@parindent=\dimen127
+\caption@hangindent=\dimen128
+)
+\c@ContinuedFloat=\count109
+Package caption Info: rotating package is loaded.
+)
+\c@subfigure=\count110
+\c@subtable=\count111
+)
+(/usr/share/texlive/texmf-dist/tex/latex/placeins/placeins.sty
+Package: placeins 2005/04/18  v 2.2
+)
+(/usr/share/texlive/texmf-dist/tex/latex/pdfpages/pdfpages.sty
+Package: pdfpages 2013/08/25 v0.4v Insert pages of external PDF documents (AM)
+
+(/usr/share/texlive/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2007/08/22 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count112
+\calc@Bcount=\count113
+\calc@Adimen=\dimen129
+\calc@Bdimen=\dimen130
+\calc@Askip=\skip50
+\calc@Bskip=\skip51
+LaTeX Info: Redefining \setlength on input line 76.
+LaTeX Info: Redefining \addtolength on input line 77.
+\calc@Ccount=\count114
+\calc@Cskip=\skip52
+)
+(/usr/share/texlive/texmf-dist/tex/latex/eso-pic/eso-pic.sty
+Package: eso-pic 2013/10/06 v2.0d eso-pic (RN)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/atbegshi.sty
+Package: atbegshi 2011/10/05 v1.16 At begin shipout hook (HO)
+)
+(/usr/share/texmf/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2007/01/21 v2.11 LaTeX color extensions (UK)
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1337.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1341.
+Package xcolor Info: Model `RGB' extended on input line 1353.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1355.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1356.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1357.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1358.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1359.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1360.
+))
+(/usr/share/texlive/texmf-dist/tex/latex/pdfpages/pppdftex.def
+File: pppdftex.def 2013/08/25 v0.4v Pdfpages driver for pdfTeX (AM)
+)
+\AM@pagebox=\box29
+\AM@toc@title=\toks24
+\c@AM@survey=\count115
+\AM@templatesizebox=\box30
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/afterpage.sty
+Package: afterpage 1995/10/27 v1.08 After-Page Package (DPC)
+\AP@output=\toks25
+\AP@partial=\box31
+\AP@footins=\box32
+) (./report.aux
+
+LaTeX Warning: Label `fig3:b' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig3:b' multiply defined.
+
+
+LaTeX Warning: Label `fig3:a' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig3:a' multiply defined.
+
+
+LaTeX Warning: Label `fig3:b' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig3:b' multiply defined.
+
+
+LaTeX Warning: Label `fig3:a' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig3:a' multiply defined.
+
+
+LaTeX Warning: Label `fig3:b' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig3:b' multiply defined.
+
+
+LaTeX Warning: Label `fig3:a' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig3:a' multiply defined.
+
+
+LaTeX Warning: Label `fig3:b' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig3:b' multiply defined.
+
+)
+\openout1 = `report.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+ (/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count116
+\scratchdimen=\dimen131
+\scratchbox=\box33
+\nofMPsegments=\count117
+\nofMParguments=\count118
+\everyMPshowfont=\toks26
+\MPscratchCnt=\count119
+\MPscratchDim=\dimen132
+\MPnumerator=\count120
+\makeMPintoPDFobject=\count121
+\everyMPtoPDFconversion=\toks27
+)
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(43.36243pt, 510.78302pt, 43.36243pt)
+* v-part:(T,H,B)=(43.36243pt, 758.32199pt, 43.36243pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=510.78302pt
+* \textheight=758.32199pt
+* \oddsidemargin=-28.90756pt
+* \evensidemargin=-28.90756pt
+* \topmargin=-65.90756pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=11.0pt
+* \footskip=30.0pt
+* \marginparwidth=50.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+\AtBeginShipoutBox=\box34
+<kthcover.pdf, id=1, 597.51233pt x 845.03705pt>
+File: kthcover.pdf Graphic file (type pdf)
+ <use kthcover.pdf>
+Package pdftex.def Info: kthcover.pdf used on input line 34.
+(pdftex.def)             Requested size: 597.51086pt x 845.03497pt.
+File: kthcover.pdf Graphic file (type pdf)
+
+<use kthcover.pdf>
+Package pdftex.def Info: kthcover.pdf used on input line 34.
+(pdftex.def)             Requested size: 597.51086pt x 845.03497pt.
+ <kthcover.pdf, id=4, page=1, 597.51233pt x 845.03705pt>
+File: kthcover.pdf Graphic file (type pdf)
+
+<use kthcover.pdf, page 1>
+Package pdftex.def Info: kthcover.pdf, page1 used on input line 34.
+(pdftex.def)             Requested size: 597.51086pt x 845.03497pt.
+File: kthcover.pdf Graphic file (type pdf)
+ <use kthcover.pdf, page 1>
+Package pdftex.def Info: kthcover.pdf, page1 used on input line 34.
+(pdftex.def)             Requested size: 597.53821pt x 845.07365pt.
+File: kthcover.pdf Graphic file (type pdf)
+
+<use kthcover.pdf, page 1>
+Package pdftex.def Info: kthcover.pdf, page1 used on input line 34.
+(pdftex.def)             Requested size: 597.53821pt x 845.07365pt.
+File: kthcover.pdf Graphic file (type pdf)
+ <use kthcover.pdf, page 1>
+Package pdftex.def Info: kthcover.pdf, page1 used on input line 34.
+(pdftex.def)             Requested size: 597.53821pt x 845.07365pt.
+File: kthcover.pdf Graphic file (type pdf)
+
+<use kthcover.pdf, page 1>
+Package pdftex.def Info: kthcover.pdf, page1 used on input line 34.
+(pdftex.def)             Requested size: 597.53821pt x 845.07365pt.
+ [1
+
+ <./kthcover.pdf>] [1]
+<img/kthlogo.png, id=22, 285.7074pt x 285.7074pt>
+File: img/kthlogo.png Graphic file (type png)
+ <use img/kthlogo.png>
+Package pdftex.def Info: img/kthlogo.png used on input line 60.
+(pdftex.def)             Requested size: 204.31009pt x 204.30974pt.
+
+<img/manchesterlogo.png, id=24, 1284.8pt x 542.025pt>
+File: img/manchesterlogo.png Graphic file (type png)
+
+<use img/manchesterlogo.png>
+Package pdftex.def Info: img/manchesterlogo.png used on input line 62.
+(pdftex.def)             Requested size: 204.31009pt x 86.18817pt.
+ [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./img/kthlogo.png> <./i
+mg/manchesterlogo.png>] (./report.toc
+LaTeX Font Info:    Try loading font information for U+msa on input line 2.
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 2.
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+))
+\tf@toc=\write3
+\openout3 = `report.toc'.
+
+ [1] [2]
+<img/pCTScanner4.png, id=47, 957.5775pt x 398.48875pt>
+File: img/pCTScanner4.png Graphic file (type png)
+
+<use img/pCTScanner4.png>
+Package pdftex.def Info: img/pCTScanner4.png used on input line 118.
+(pdftex.def)             Requested size: 287.27547pt x 119.54755pt.
+ [3 <./img/pCTScanner4.png>] [4]
+Package epstopdf Info: Source file: <img/mostlikelypath.eps>
+(epstopdf)                    date: 2016-05-14 14:14:25
+(epstopdf)                    size: 54203 bytes
+(epstopdf)             Output file: <img/mostlikelypath-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-05-14 14:26:18
+(epstopdf)                    size: 22473 bytes
+(epstopdf)             Command: <repstopdf --outfile=img/mostlikelypath-eps-con
+verted-to.pdf img/mostlikelypath.eps>
+(epstopdf)             \includegraphics on input line 197.
+Package epstopdf Info: Output file is already uptodate.
+
+<img/mostlikelypath-eps-converted-to.pdf, id=61, 471.7625pt x 317.185pt>
+File: img/mostlikelypath-eps-converted-to.pdf Graphic file (type pdf)
+
+<use img/mostlikelypath-eps-converted-to.pdf>
+Package pdftex.def Info: img/mostlikelypath-eps-converted-to.pdf used on input 
+line 197.
+(pdftex.def)             Requested size: 235.88066pt x 158.5921pt.
+ [5 <./img/mostlikelypath-eps-converted-to.pdf>] [6] <img/geant4.png, id=78, 57
+1.13374pt x 599.23875pt>
+File: img/geant4.png Graphic file (type png)
+
+<use img/geant4.png>
+Package pdftex.def Info: img/geant4.png used on input line 283.
+(pdftex.def)             Requested size: 150.68005pt x 158.09344pt.
+ <img/slitPhantom.png, id=79, 464.73625pt x 479.7925pt>
+File: img/slitPhantom.png Graphic file (type png)
+
+<use img/slitPhantom.png>
+Package pdftex.def Info: img/slitPhantom.png used on input line 284.
+(pdftex.def)             Requested size: 153.23645pt x 158.20023pt.
+ <img/edgePhantom.png, id=80, 377.41pt x 390.45876pt>
+File: img/edgePhantom.png Graphic file (type png)
+
+<use img/edgePhantom.png>
+Package pdftex.def Info: img/edgePhantom.png used on input line 285.
+(pdftex.def)             Requested size: 153.23645pt x 158.5341pt.
+ [7]
+<img/fbpUnfiltered.jpg, id=84, 372.39125pt x 372.39125pt>
+File: img/fbpUnfiltered.jpg Graphic file (type jpg)
+
+<use img/fbpUnfiltered.jpg>
+Package pdftex.def Info: img/fbpUnfiltered.jpg used on input line 304.
+(pdftex.def)             Requested size: 153.23645pt x 153.23825pt.
+
+<img/fbpFiltered.jpg, id=85, 372.39125pt x 372.39125pt>
+File: img/fbpFiltered.jpg Graphic file (type jpg)
+
+<use img/fbpFiltered.jpg>
+Package pdftex.def Info: img/fbpFiltered.jpg used on input line 305.
+(pdftex.def)             Requested size: 153.23645pt x 153.23825pt.
+Package epstopdf Info: Source file: <img/fbpCentreUnfilt.eps>
+(epstopdf)                    date: 2016-05-26 11:39:37
+(epstopdf)                    size: 9958 bytes
+(epstopdf)             Output file: <img/fbpCentreUnfilt-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-05-26 11:42:27
+(epstopdf)                    size: 6785 bytes
+(epstopdf)             Command: <repstopdf --outfile=img/fbpCentreUnfilt-eps-co
+nverted-to.pdf img/fbpCentreUnfilt.eps>
+(epstopdf)             \includegraphics on input line 308.
+Package epstopdf Info: Output file is already uptodate.
+
+<img/fbpCentreUnfilt-eps-converted-to.pdf, id=86, 500.87125pt x 391.4625pt>
+File: img/fbpCentreUnfilt-eps-converted-to.pdf Graphic file (type pdf)
+
+<use img/fbpCentreUnfilt-eps-converted-to.pdf>
+Package pdftex.def Info: img/fbpCentreUnfilt-eps-converted-to.pdf used on input
+ line 308.
+(pdftex.def)             Requested size: 204.31009pt x 159.68233pt.
+Package epstopdf Info: Source file: <img/fbpCentreFilt.eps>
+(epstopdf)                    date: 2016-05-26 11:41:36
+(epstopdf)                    size: 10018 bytes
+(epstopdf)             Output file: <img/fbpCentreFilt-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-05-26 11:42:28
+(epstopdf)                    size: 6775 bytes
+(epstopdf)             Command: <repstopdf --outfile=img/fbpCentreFilt-eps-conv
+erted-to.pdf img/fbpCentreFilt.eps>
+(epstopdf)             \includegraphics on input line 309.
+Package epstopdf Info: Output file is already uptodate.
+
+<img/fbpCentreFilt-eps-converted-to.pdf, id=87, 500.87125pt x 385.44pt>
+File: img/fbpCentreFilt-eps-converted-to.pdf Graphic file (type pdf)
+
+<use img/fbpCentreFilt-eps-converted-to.pdf>
+Package pdftex.def Info: img/fbpCentreFilt-eps-converted-to.pdf used on input l
+ine 309.
+(pdftex.def)             Requested size: 204.31009pt x 157.22568pt.
+Package epstopdf Info: Source file: <img/fbpSlitAir.eps>
+(epstopdf)                    date: 2016-05-26 11:31:30
+(epstopdf)                    size: 9405 bytes
+(epstopdf)             Output file: <img/fbpSlitAir-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-05-26 11:32:26
+(epstopdf)                    size: 6463 bytes
+(epstopdf)             Command: <repstopdf --outfile=img/fbpSlitAir-eps-convert
+ed-to.pdf img/fbpSlitAir.eps>
+(epstopdf)             \includegraphics on input line 310.
+Package epstopdf Info: Output file is already uptodate.
+
+<img/fbpSlitAir-eps-converted-to.pdf, id=88, 489.83pt x 393.47pt>
+File: img/fbpSlitAir-eps-converted-to.pdf Graphic file (type pdf)
+
+<use img/fbpSlitAir-eps-converted-to.pdf>
+Package pdftex.def Info: img/fbpSlitAir-eps-converted-to.pdf used on input line
+ 310.
+(pdftex.def)             Requested size: 204.31009pt x 164.11552pt.
+Package epstopdf Info: Source file: <img/fbpSlitBone.eps>
+(epstopdf)                    date: 2016-05-26 11:29:01
+(epstopdf)                    size: 9579 bytes
+(epstopdf)             Output file: <img/fbpSlitBone-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-05-26 11:32:27
+(epstopdf)                    size: 6861 bytes
+(epstopdf)             Command: <repstopdf --outfile=img/fbpSlitBone-eps-conver
+ted-to.pdf img/fbpSlitBone.eps>
+(epstopdf)             \includegraphics on input line 311.
+Package epstopdf Info: Output file is already uptodate.
+
+<img/fbpSlitBone-eps-converted-to.pdf, id=89, 491.8375pt x 393.47pt>
+File: img/fbpSlitBone-eps-converted-to.pdf Graphic file (type pdf)
+
+<use img/fbpSlitBone-eps-converted-to.pdf>
+Package pdftex.def Info: img/fbpSlitBone-eps-converted-to.pdf used on input lin
+e 311.
+(pdftex.def)             Requested size: 204.31009pt x 163.4491pt.
+
+<img/fbpFracFilt.jpg, id=90, 564.1075pt x 422.57875pt>
+File: img/fbpFracFilt.jpg Graphic file (type jpg)
+
+<use img/fbpFracFilt.jpg>
+Package pdftex.def Info: img/fbpFracFilt.jpg used on input line 320.
+(pdftex.def)             Requested size: 282.05305pt x 211.28885pt.
+ [8 <./img/geant4.png> <./img/slitPhantom.png> <./img/edgePhantom.png>] [9 <./i
+mg/fbpUnfiltered.jpg> <./img/fbpFiltered.jpg> <./img/fbpCentreUnfilt-eps-conver
+ted-to.pdf> <./img/fbpCentreFilt-eps-converted-to.pdf> <./img/fbpSlitAir-eps-co
+nverted-to.pdf> <./img/fbpSlitBone-eps-converted-to.pdf>] <img/MLP1.jpg, id=119
+, 562.1pt x 421.575pt>
+File: img/MLP1.jpg Graphic file (type jpg)
+ <use img/MLP1.jpg>
+Package pdftex.def Info: img/MLP1.jpg used on input line 351.
+(pdftex.def)             Requested size: 180.67499pt x 135.50499pt.
+
+<img/MLP2.jpg, id=120, 562.1pt x 421.575pt>
+File: img/MLP2.jpg Graphic file (type jpg)
+ <use img/MLP2.jpg>
+Package pdftex.def Info: img/MLP2.jpg used on input line 352.
+(pdftex.def)             Requested size: 180.67499pt x 135.50499pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 350--354
+
+ []
+
+<img/MLP3.jpg, id=121, 552.0625pt x 419.5675pt>
+File: img/MLP3.jpg Graphic file (type jpg)
+ <use img/MLP3.jpg>
+Package pdftex.def Info: img/MLP3.jpg used on input line 356.
+(pdftex.def)             Requested size: 180.67499pt x 137.31172pt.
+
+<img/MLP4.jpg, id=122, 562.1pt x 421.575pt>
+File: img/MLP4.jpg Graphic file (type jpg)
+ <use img/MLP4.jpg>
+Package pdftex.def Info: img/MLP4.jpg used on input line 357.
+(pdftex.def)             Requested size: 180.67499pt x 135.50499pt.
+Package epstopdf Info: Source file: <img/rms0.eps>
+(epstopdf)                    date: 2016-05-20 14:47:03
+(epstopdf)                    size: 22557 bytes
+(epstopdf)             Output file: <img/rms0-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-05-20 14:49:18
+(epstopdf)                    size: 15761 bytes
+(epstopdf)             Command: <repstopdf --outfile=img/rms0-eps-converted-to.
+pdf img/rms0.eps>
+(epstopdf)             \includegraphics on input line 400.
+Package epstopdf Info: Output file is already uptodate.
+
+<img/rms0-eps-converted-to.pdf, id=123, 494.84875pt x 404.51125pt>
+File: img/rms0-eps-converted-to.pdf Graphic file (type pdf)
+
+<use img/rms0-eps-converted-to.pdf>
+Package pdftex.def Info: img/rms0-eps-converted-to.pdf used on input line 400.
+(pdftex.def)             Requested size: 216.81pt x 177.22629pt.
+Package epstopdf Info: Source file: <img/rms90.eps>
+(epstopdf)                    date: 2016-05-20 14:56:57
+(epstopdf)                    size: 22313 bytes
+(epstopdf)             Output file: <img/rms90-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-05-20 14:57:57
+(epstopdf)                    size: 17143 bytes
+(epstopdf)             Command: <repstopdf --outfile=img/rms90-eps-converted-to
+.pdf img/rms90.eps>
+(epstopdf)             \includegraphics on input line 401.
+Package epstopdf Info: Output file is already uptodate.
+
+<img/rms90-eps-converted-to.pdf, id=124, 494.84875pt x 404.51125pt>
+File: img/rms90-eps-converted-to.pdf Graphic file (type pdf)
+
+<use img/rms90-eps-converted-to.pdf>
+Package pdftex.def Info: img/rms90-eps-converted-to.pdf used on input line 401.
+
+(pdftex.def)             Requested size: 216.81pt x 177.22629pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 399--403
+
+ []
+
+[10 <./img/fbpFracFilt.jpg>] [11 <./img/MLP1.jpg> <./img/MLP2.jpg> <./img/MLP3.
+jpg> <./img/MLP4.jpg> <./img/rms0-eps-converted-to.pdf> <./img/rms90-eps-conver
+ted-to.pdf>] <img/bpfEdgeLine.jpg, id=145, 342.27875pt x 342.27875pt>
+File: img/bpfEdgeLine.jpg Graphic file (type jpg)
+
+<use img/bpfEdgeLine.jpg>
+Package pdftex.def Info: img/bpfEdgeLine.jpg used on input line 438.
+(pdftex.def)             Requested size: 115.63243pt x 115.63159pt.
+
+<img/bpfEdgeSpline.jpg, id=146, 342.27875pt x 342.27875pt>
+File: img/bpfEdgeSpline.jpg Graphic file (type jpg)
+
+<use img/bpfEdgeSpline.jpg>
+Package pdftex.def Info: img/bpfEdgeSpline.jpg used on input line 439.
+(pdftex.def)             Requested size: 115.63243pt x 115.63159pt.
+
+<img/bpfEdgeMLP.jpg, id=147, 342.27875pt x 342.27875pt>
+File: img/bpfEdgeMLP.jpg Graphic file (type jpg)
+
+<use img/bpfEdgeMLP.jpg>
+Package pdftex.def Info: img/bpfEdgeMLP.jpg used on input line 440.
+(pdftex.def)             Requested size: 115.63243pt x 115.63159pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 437--442
+
+ []
+
+Package epstopdf Info: Source file: <img/slitFineLine.eps>
+(epstopdf)                    date: 2016-05-25 15:44:22
+(epstopdf)                    size: 708939 bytes
+(epstopdf)             Output file: <img/slitFineLine-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-05-25 15:47:57
+(epstopdf)                    size: 47744 bytes
+(epstopdf)             Command: <repstopdf --outfile=img/slitFineLine-eps-conve
+rted-to.pdf img/slitFineLine.eps>
+(epstopdf)             \includegraphics on input line 444.
+Package epstopdf Info: Output file is already uptodate.
+<img/slitFineLine-eps-converted-to.pdf, id=148, 350.30875pt x 350.30875pt>
+File: img/slitFineLine-eps-converted-to.pdf Graphic file (type pdf)
+
+<use img/slitFineLine-eps-converted-to.pdf>
+Package pdftex.def Info: img/slitFineLine-eps-converted-to.pdf used on input li
+ne 444.
+(pdftex.def)             Requested size: 119.4623pt x 119.46153pt.
+Package epstopdf Info: Source file: <img/slitFineSpline.eps>
+(epstopdf)                    date: 2016-05-25 15:44:44
+(epstopdf)                    size: 708941 bytes
+(epstopdf)             Output file: <img/slitFineSpline-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-05-25 15:47:58
+(epstopdf)                    size: 48388 bytes
+(epstopdf)             Command: <repstopdf --outfile=img/slitFineSpline-eps-con
+verted-to.pdf img/slitFineSpline.eps>
+(epstopdf)             \includegraphics on input line 445.
+Package epstopdf Info: Output file is already uptodate.
+
+<img/slitFineSpline-eps-converted-to.pdf, id=149, 350.30875pt x 350.30875pt>
+File: img/slitFineSpline-eps-converted-to.pdf Graphic file (type pdf)
+
+<use img/slitFineSpline-eps-converted-to.pdf>
+Package pdftex.def Info: img/slitFineSpline-eps-converted-to.pdf used on input 
+line 445.
+(pdftex.def)             Requested size: 119.4623pt x 119.46153pt.
+Package epstopdf Info: Source file: <img/slitFine.eps>
+(epstopdf)                    date: 2016-05-25 15:43:57
+(epstopdf)                    size: 708935 bytes
+(epstopdf)             Output file: <img/slitFine-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-05-25 15:46:32
+(epstopdf)                    size: 48344 bytes
+(epstopdf)             Command: <repstopdf --outfile=img/slitFine-eps-converted
+-to.pdf img/slitFine.eps>
+(epstopdf)             \includegraphics on input line 447.
+Package epstopdf Info: Output file is already uptodate.
+
+<img/slitFine-eps-converted-to.pdf, id=150, 350.30875pt x 350.30875pt>
+File: img/slitFine-eps-converted-to.pdf Graphic file (type pdf)
+
+<use img/slitFine-eps-converted-to.pdf>
+Package pdftex.def Info: img/slitFine-eps-converted-to.pdf used on input line 4
+47.
+(pdftex.def)             Requested size: 119.4623pt x 119.46153pt.
+ [12 <./img/bpfEdgeLine.jpg> <./img/bpfEdgeSpline.jpg> <./img/bpfEdgeMLP.jpg> <
+./img/slitFineLine-eps-converted-to.pdf> <./img/slitFineSpline-eps-converted-to
+.pdf> <./img/slitFine-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <img/graphSlit1New.eps>
+(epstopdf)                    date: 2016-05-25 15:28:12
+(epstopdf)                    size: 9657 bytes
+(epstopdf)             Output file: <img/graphSlit1New-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-05-25 15:35:32
+(epstopdf)                    size: 6770 bytes
+(epstopdf)             Command: <repstopdf --outfile=img/graphSlit1New-eps-conv
+erted-to.pdf img/graphSlit1New.eps>
+(epstopdf)             \includegraphics on input line 544.
+Package epstopdf Info: Output file is already uptodate.
+ <img/graphSlit1New-eps-converted-to.pdf, id=163, 489.83pt x 393.47pt>
+File: img/graphSlit1New-eps-converted-to.pdf Graphic file (type pdf)
+
+<use img/graphSlit1New-eps-converted-to.pdf>
+Package pdftex.def Info: img/graphSlit1New-eps-converted-to.pdf used on input l
+ine 544.
+(pdftex.def)             Requested size: 180.67499pt x 145.13132pt.
+Package epstopdf Info: Source file: <img/graphSlit2New.eps>
+(epstopdf)                    date: 2016-05-25 15:34:22
+(epstopdf)                    size: 9369 bytes
+(epstopdf)             Output file: <img/graphSlit2New-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-05-25 15:35:32
+(epstopdf)                    size: 6380 bytes
+(epstopdf)             Command: <repstopdf --outfile=img/graphSlit2New-eps-conv
+erted-to.pdf img/graphSlit2New.eps>
+(epstopdf)             \includegraphics on input line 545.
+Package epstopdf Info: Output file is already uptodate.
+
+<img/graphSlit2New-eps-converted-to.pdf, id=164, 491.8375pt x 393.47pt>
+File: img/graphSlit2New-eps-converted-to.pdf Graphic file (type pdf)
+
+<use img/graphSlit2New-eps-converted-to.pdf>
+Package pdftex.def Info: img/graphSlit2New-eps-converted-to.pdf used on input l
+ine 545.
+(pdftex.def)             Requested size: 180.67499pt x 144.53694pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 543--550
+
+ []
+
+Package epstopdf Info: Source file: <img/MTFsmoothingAir.eps>
+(epstopdf)                    date: 2016-05-21 14:27:50
+(epstopdf)                    size: 18448 bytes
+(epstopdf)             Output file: <img/MTFsmoothingAir-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-05-21 14:37:06
+(epstopdf)                    size: 15282 bytes
+(epstopdf)             Command: <repstopdf --outfile=img/MTFsmoothingAir-eps-co
+nverted-to.pdf img/MTFsmoothingAir.eps>
+(epstopdf)             \includegraphics on input line 558.
+Package epstopdf Info: Output file is already uptodate.
+<img/MTFsmoothingAir-eps-converted-to.pdf, id=165, 489.83pt x 393.47pt>
+File: img/MTFsmoothingAir-eps-converted-to.pdf Graphic file (type pdf)
+
+<use img/MTFsmoothingAir-eps-converted-to.pdf>
+Package pdftex.def Info: img/MTFsmoothingAir-eps-converted-to.pdf used on input
+ line 558.
+(pdftex.def)             Requested size: 180.67499pt x 145.13132pt.
+Package epstopdf Info: Source file: <img/MTFsmoothingBone.eps>
+(epstopdf)                    date: 2016-05-21 14:34:07
+(epstopdf)                    size: 18392 bytes
+(epstopdf)             Output file: <img/MTFsmoothingBone-eps-converted-to.pdf>
+
+(epstopdf)                    date: 2016-05-21 14:37:07
+(epstopdf)                    size: 15257 bytes
+(epstopdf)             Command: <repstopdf --outfile=img/MTFsmoothingBone-eps-c
+onverted-to.pdf img/MTFsmoothingBone.eps>
+(epstopdf)             \includegraphics on input line 559.
+Package epstopdf Info: Output file is already uptodate.
+
+<img/MTFsmoothingBone-eps-converted-to.pdf, id=166, 489.83pt x 393.47pt>
+File: img/MTFsmoothingBone-eps-converted-to.pdf Graphic file (type pdf)
+
+<use img/MTFsmoothingBone-eps-converted-to.pdf>
+Package pdftex.def Info: img/MTFsmoothingBone-eps-converted-to.pdf used on inpu
+t line 559.
+(pdftex.def)             Requested size: 180.67499pt x 145.13132pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 557--561
+
+ []
+
+[13 <./img/graphSlit1New-eps-converted-to.pdf> <./img/graphSlit2New-eps-convert
+ed-to.pdf>] [14 <./img/MTFsmoothingAir-eps-converted-to.pdf> <./img/MTFsmoothin
+gBone-eps-converted-to.pdf>] [15]
+<img/braggpeak.jpg, id=196, 235.88928pt x 179.2296pt>
+File: img/braggpeak.jpg Graphic file (type jpg)
+ <use img/braggpeak.jpg>
+Package pdftex.def Info: img/braggpeak.jpg used on input line 634.
+(pdftex.def)             Requested size: 235.8887pt x 179.22914pt.
+
+[16 <./img/braggpeak.jpg>] [17] [18]
+Package epstopdf Info: Source file: <img/param.eps>
+(epstopdf)                    date: 2016-03-14 11:15:43
+(epstopdf)                    size: 16530 bytes
+(epstopdf)             Output file: <img/param-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-03-14 11:15:47
+(epstopdf)                    size: 9230 bytes
+(epstopdf)             Command: <repstopdf --outfile=img/param-eps-converted-to
+.pdf img/param.eps>
+(epstopdf)             \includegraphics on input line 716.
+Package epstopdf Info: Output file is already uptodate.
+
+<img/param-eps-converted-to.pdf, id=210, 234.8775pt x 233.87375pt>
+File: img/param-eps-converted-to.pdf Graphic file (type pdf)
+
+<use img/param-eps-converted-to.pdf>
+Package pdftex.def Info: img/param-eps-converted-to.pdf used on input line 716.
+
+(pdftex.def)             Requested size: 140.92758pt x 140.32532pt.
+ [19 <./img/param-eps-converted-to.pdf>]
+[20]
+Package epstopdf Info: Source file: <img/grid.eps>
+(epstopdf)                    date: 2016-03-14 12:10:58
+(epstopdf)                    size: 25249 bytes
+(epstopdf)             Output file: <img/grid-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-03-14 12:11:05
+(epstopdf)                    size: 20106 bytes
+(epstopdf)             Command: <repstopdf --outfile=img/grid-eps-converted-to.
+pdf img/grid.eps>
+(epstopdf)             \includegraphics on input line 796.
+Package epstopdf Info: Output file is already uptodate.
+ <img/grid-eps-converted-to.pdf, id=227, 353.32pt x 216.81pt>
+File: img/grid-eps-converted-to.pdf Graphic file (type pdf)
+
+<use img/grid-eps-converted-to.pdf>
+Package pdftex.def Info: img/grid-eps-converted-to.pdf used on input line 796.
+(pdftex.def)             Requested size: 282.65639pt x 173.44823pt.
+ [21 <./img/grid-eps-converted-to.pdf>]
+[22] (./report.bbl
+Underfull \hbox (badness 10000) in paragraph at lines 4--7
+[]\OT1/cmr/m/n/10.95 P. T. C.-O. Group, ``Fa-cil-i-ties in op-er-a-tion, fa-cil
+-i-ties un-der con-struc-tion,'' 2016.
+ []
+
+[23]
+Underfull \hbox (badness 10000) in paragraph at lines 115--117
+[]\OT1/cmr/m/n/10.95 N. I. for Stan-dards and Tech-nol-ogy, ``Ma-te-rial com-po
+-si-tion database,'' 2015.
+ []
+
+[24]
+Underfull \hbox (badness 10000) in paragraph at lines 123--126
+[]\OT1/cmr/m/n/10.95 B. Bar-rowes, ``f2matlab - con-ver-sion of for-tran90 code
+ to mat-lab m-files,'' 2012.
+ []
+
+[25] [26])
+File: kthcover.pdf Graphic file (type pdf)
+ <use kthcover.pdf>
+Package pdftex.def Info: kthcover.pdf used on input line 868.
+(pdftex.def)             Requested size: 597.51086pt x 845.03497pt.
+File: kthcover.pdf Graphic file (type pdf)
+ <use kthcover.pdf>
+Package pdftex.def Info: kthcover.pdf used on input line 868.
+(pdftex.def)             Requested size: 597.51086pt x 845.03497pt.
+ [27]
+<kthcover.pdf, id=255, page=2, 597.51233pt x 845.03705pt>
+File: kthcover.pdf Graphic file (type pdf)
+
+<use kthcover.pdf, page 2>
+Package pdftex.def Info: kthcover.pdf, page2 used on input line 868.
+(pdftex.def)             Requested size: 597.51086pt x 845.03497pt.
+File: kthcover.pdf Graphic file (type pdf)
+ <use kthcover.pdf, page 2>
+Package pdftex.def Info: kthcover.pdf, page2 used on input line 868.
+(pdftex.def)             Requested size: 597.53821pt x 845.07365pt.
+File: kthcover.pdf Graphic file (type pdf)
+
+<use kthcover.pdf, page 2>
+Package pdftex.def Info: kthcover.pdf, page2 used on input line 868.
+(pdftex.def)             Requested size: 597.53821pt x 845.07365pt.
+File: kthcover.pdf Graphic file (type pdf)
+ <use kthcover.pdf, page 2>
+Package pdftex.def Info: kthcover.pdf, page2 used on input line 868.
+(pdftex.def)             Requested size: 597.53821pt x 845.07365pt.
+File: kthcover.pdf Graphic file (type pdf)
+
+<use kthcover.pdf, page 2>
+Package pdftex.def Info: kthcover.pdf, page2 used on input line 868.
+(pdftex.def)             Requested size: 597.53821pt x 845.07365pt.
+ [28 <./kthcover.pdf>] (./report.aux)
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 6540 strings out of 493304
+ 96731 string characters out of 6139871
+ 262763 words of memory out of 5000000
+ 9838 multiletter control sequences out of 15000+600000
+ 14310 words of font info for 55 fonts, out of 8000000 for 9000
+ 957 hyphenation exceptions out of 8191
+ 42i,18n,45p,1289b,494s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></us
+r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/shar
+e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texl
+ive/texmf-dist/fonts/type1/public/amsfonts/cmextra/cmex9.pfb></usr/share/texliv
+e/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texm
+f-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb></usr/share/texlive/texmf-dist/
+fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/share/texlive/texmf-dist/fonts/t
+ype1/public/amsfonts/cm/cmmi8.pfb></usr/share/texlive/texmf-dist/fonts/type1/pu
+blic/amsfonts/cm/cmmi9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/am
+sfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/
+cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr1
+7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></
+usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/shar
+e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/share/texliv
+e/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texm
+f-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texlive/texmf-dist/
+fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/texlive/texmf-dist/fonts/t
+ype1/public/amsfonts/cm/cmsy9.pfb></usr/share/texlive/texmf-dist/fonts/type1/pu
+blic/amsfonts/cm/cmti10.pfb>
+Output written on report.pdf (31 pages, 1445230 bytes).
+PDF statistics:
+ 323 PDF objects out of 1000 (max. 8388607)
+ 199 compressed objects within 2 object streams
+ 0 named destinations out of 1000 (max. 500000)
+ 201 words of extra memory for PDF output out of 10000 (max. 10000000)
+

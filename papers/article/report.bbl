@@ -1,0 +1,900 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \sortlist{entry}{nyt}
+    \entry{agostinelli2003geant4}{article}{}
+      \true{morelabelname}
+      \name{labelname}{10}{}{%
+        {{uniquename=0,hash=2de53f2fd88b15b3074d1f03f7282258}{Agostinelli}{A\bibinitperiod}{Sea}{S\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=532b314185ec3d27a72065c83f52f15d}{Allison}{A\bibinitperiod}{John}{J\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=f40f90eddc6771c53344039daa7945d6}{Amako}{A\bibinitperiod}{K\bibnamedelima al}{K\bibinitperiod\bibinitdelim a\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=bed356a7ac8e9512b5fe0f6050cdc0cc}{Apostolakis}{A\bibinitperiod}{J}{J\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=d4c6825a3f2a9d5ef826230de5af7f1c}{Araujo}{A\bibinitperiod}{H}{H\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=d8eae7fbd3b2a227bdc91daff1973c0d}{Arce}{A\bibinitperiod}{P}{P\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=7465d463083343f66b0ae790ffd9849f}{Asai}{A\bibinitperiod}{M}{M\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=1a581653876df7a117178c423557415f}{Axen}{A\bibinitperiod}{D}{D\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=09d1321342daf40c074c5deb7695d8ae}{Banerjee}{B\bibinitperiod}{S}{S\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=a8edccaa135d728658e025f03ee93795}{Barrand}{B\bibinitperiod}{G}{G\bibinitperiod}{}{}{}{}}%
+      }
+      \true{moreauthor}
+      \name{author}{10}{}{%
+        {{uniquename=0,hash=2de53f2fd88b15b3074d1f03f7282258}{Agostinelli}{A\bibinitperiod}{Sea}{S\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=532b314185ec3d27a72065c83f52f15d}{Allison}{A\bibinitperiod}{John}{J\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=f40f90eddc6771c53344039daa7945d6}{Amako}{A\bibinitperiod}{K\bibnamedelima al}{K\bibinitperiod\bibinitdelim a\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=bed356a7ac8e9512b5fe0f6050cdc0cc}{Apostolakis}{A\bibinitperiod}{J}{J\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=d4c6825a3f2a9d5ef826230de5af7f1c}{Araujo}{A\bibinitperiod}{H}{H\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=d8eae7fbd3b2a227bdc91daff1973c0d}{Arce}{A\bibinitperiod}{P}{P\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=7465d463083343f66b0ae790ffd9849f}{Asai}{A\bibinitperiod}{M}{M\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=1a581653876df7a117178c423557415f}{Axen}{A\bibinitperiod}{D}{D\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=09d1321342daf40c074c5deb7695d8ae}{Banerjee}{B\bibinitperiod}{S}{S\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=a8edccaa135d728658e025f03ee93795}{Barrand}{B\bibinitperiod}{G}{G\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{4d7a2ef97352d0800ed3774c75a9a768}
+      \strng{fullhash}{0036655d45a17cf109136ec5a04b0451}
+      \field{sortinit}{A}
+      \field{labelyear}{2003}
+      \field{datelabelsource}{}
+      \field{labeltitle}{GEANT4—a simulation toolkit}
+      \field{journaltitle}{Nuclear instruments and methods in physics research section A: Accelerators, Spectrometers, Detectors and Associated Equipment}
+      \field{number}{3}
+      \field{title}{GEANT4—a simulation toolkit}
+      \field{volume}{506}
+      \field{year}{2003}
+      \field{pages}{250\bibrangedash 303}
+    \endentry
+    \entry{f2matlab}{misc}{}
+      \name{labelname}{1}{}{%
+        {{uniquename=0,hash=9363fe815db0fd414a78f8d14927e242}{Barrowes}{B\bibinitperiod}{Ben}{B\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=9363fe815db0fd414a78f8d14927e242}{Barrowes}{B\bibinitperiod}{Ben}{B\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{9363fe815db0fd414a78f8d14927e242}
+      \strng{fullhash}{9363fe815db0fd414a78f8d14927e242}
+      \field{sortinit}{B}
+      \field{labelyear}{2012}
+      \field{datelabelsource}{}
+      \field{labeltitle}{f2matlab - Conversion of Fortran90 code to MATLAB m-files}
+      \field{title}{f2matlab - Conversion of Fortran90 code to MATLAB m-files}
+      \field{year}{2012}
+      \verb{url}
+      \verb http://uk.mathworks.com/matlabcentral/fileexchange/5260-f2matlab
+      \endverb
+    \endentry
+    \entry{bashkirov2016development}{article}{}
+      \name{labelname}{4}{}{%
+        {{uniquename=0,hash=69f9e5384346b6feec9d4a53fd2ce5da}{Bashkirov}{B\bibinitperiod}{Vladimir\bibnamedelima A}{V\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=254afa141b472f26f06a6919f15baebe}{Johnson}{J\bibinitperiod}{Robert\bibnamedelima P}{R\bibinitperiod\bibinitdelim P\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=4c356475e50dabbee06329b1978b1374}{Sadrozinski}{S\bibinitperiod}{Hartmut\bibnamedelima F-W}{H\bibinitperiod\bibinitdelim F\bibinithyphendelim W\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=9e337ce2735fd8d5bb6ba3c32c3357a9}{Schulte}{S\bibinitperiod}{Reinhard\bibnamedelima W}{R\bibinitperiod\bibinitdelim W\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{4}{}{%
+        {{uniquename=0,hash=69f9e5384346b6feec9d4a53fd2ce5da}{Bashkirov}{B\bibinitperiod}{Vladimir\bibnamedelima A}{V\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=254afa141b472f26f06a6919f15baebe}{Johnson}{J\bibinitperiod}{Robert\bibnamedelima P}{R\bibinitperiod\bibinitdelim P\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=4c356475e50dabbee06329b1978b1374}{Sadrozinski}{S\bibinitperiod}{Hartmut\bibnamedelima F-W}{H\bibinitperiod\bibinitdelim F\bibinithyphendelim W\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=9e337ce2735fd8d5bb6ba3c32c3357a9}{Schulte}{S\bibinitperiod}{Reinhard\bibnamedelima W}{R\bibinitperiod\bibinitdelim W\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{8316212400e3a28a283b598fff19c1f1}
+      \strng{fullhash}{3e0da787add286439f564a41cc182a63}
+      \field{sortinit}{B}
+      \field{labelyear}{2016}
+      \field{datelabelsource}{}
+      \field{labeltitle}{Development of proton computed tomography detectors for applications in hadron therapy}
+      \field{journaltitle}{Nuclear Instruments and Methods in Physics Research Section A: Accelerators, Spectrometers, Detectors and Associated Equipment}
+      \field{title}{Development of proton computed tomography detectors for applications in hadron therapy}
+      \field{volume}{809}
+      \field{year}{2016}
+      \field{pages}{120\bibrangedash 129}
+    \endentry
+    \entry{bates1971towards}{article}{}
+      \name{labelname}{2}{}{%
+        {{uniquename=0,hash=fc2e564b55d40d3fd3e19ec34249684e}{Bates}{B\bibinitperiod}{RHT}{R\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=8f11cb1ff3c32c40f9087a334ad845b4}{Peters}{P\bibinitperiod}{TM}{T\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{uniquename=0,hash=fc2e564b55d40d3fd3e19ec34249684e}{Bates}{B\bibinitperiod}{RHT}{R\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=8f11cb1ff3c32c40f9087a334ad845b4}{Peters}{P\bibinitperiod}{TM}{T\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {DEPT SCI INDUST RES SCI INFO DIVISION PO BOX 9741, WELLINGTON, NEW ZEALAND}%
+      }
+      \strng{namehash}{840123e8b647bce31864d4be32fe6639}
+      \strng{fullhash}{840123e8b647bce31864d4be32fe6639}
+      \field{sortinit}{B}
+      \field{labelyear}{1971}
+      \field{datelabelsource}{}
+      \field{labeltitle}{Towards improvements in tomography}
+      \field{journaltitle}{New Zealand Journal of Science}
+      \field{number}{4}
+      \field{title}{Towards improvements in tomography}
+      \field{volume}{14}
+      \field{year}{1971}
+      \field{pages}{883}
+    \endentry
+    \entry{cormack1963representation}{article}{}
+      \name{labelname}{1}{}{%
+        {{uniquename=1,hash=8eab9948b39345e220b0e64f7ab250d7}{Cormack}{C\bibinitperiod}{Allan\bibnamedelima Macleod}{A\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{uniquename=1,hash=8eab9948b39345e220b0e64f7ab250d7}{Cormack}{C\bibinitperiod}{Allan\bibnamedelima Macleod}{A\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {AIP Publishing}%
+      }
+      \strng{namehash}{8eab9948b39345e220b0e64f7ab250d7}
+      \strng{fullhash}{8eab9948b39345e220b0e64f7ab250d7}
+      \field{sortinit}{C}
+      \field{labelyear}{1963}
+      \field{datelabelsource}{}
+      \field{labeltitle}{Representation of a function by its line integrals, with some radiological applications}
+      \field{journaltitle}{Journal of applied physics}
+      \field{number}{9}
+      \field{title}{Representation of a function by its line integrals, with some radiological applications}
+      \field{volume}{34}
+      \field{year}{1963}
+      \field{pages}{2722\bibrangedash 2727}
+    \endentry
+    \entry{cormack1976quantitative}{article}{}
+      \name{labelname}{2}{}{%
+        {{uniquename=1,hash=ed7cf735165a23ae53379b52a3248bf0}{Cormack}{C\bibinitperiod}{AM}{A\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=de3d94b386f9d88a50d7ac53fac357de}{Koehler}{K\bibinitperiod}{AM}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{uniquename=1,hash=ed7cf735165a23ae53379b52a3248bf0}{Cormack}{C\bibinitperiod}{AM}{A\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=de3d94b386f9d88a50d7ac53fac357de}{Koehler}{K\bibinitperiod}{AM}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {IOP Publishing}%
+      }
+      \strng{namehash}{e295b38430c0ed8121062a5827e41e84}
+      \strng{fullhash}{e295b38430c0ed8121062a5827e41e84}
+      \field{sortinit}{C}
+      \field{labelyear}{1976}
+      \field{datelabelsource}{}
+      \field{labeltitle}{Quantitative proton tomography: preliminary experiments}
+      \field{journaltitle}{Physics in medicine and biology}
+      \field{number}{4}
+      \field{title}{Quantitative proton tomography: preliminary experiments}
+      \field{volume}{21}
+      \field{year}{1976}
+      \field{pages}{560}
+    \endentry
+    \entry{defrise2006truncated}{article}{}
+      \name{labelname}{4}{}{%
+        {{uniquename=0,hash=c618aead04933f6835db7178f6a5c236}{Defrise}{D\bibinitperiod}{Michel}{M\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=14edfbb0b06c411b7ef512b7d1e01979}{Noo}{N\bibinitperiod}{Frédéric}{F\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=139f13f2046485f048466c3f162791e9}{Clackdoyle}{C\bibinitperiod}{Rolf}{R\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=d24a234d39aadcd4a91fbb701c8554a5}{Kudo}{K\bibinitperiod}{Hiroyuki}{H\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{4}{}{%
+        {{uniquename=0,hash=c618aead04933f6835db7178f6a5c236}{Defrise}{D\bibinitperiod}{Michel}{M\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=14edfbb0b06c411b7ef512b7d1e01979}{Noo}{N\bibinitperiod}{Frédéric}{F\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=139f13f2046485f048466c3f162791e9}{Clackdoyle}{C\bibinitperiod}{Rolf}{R\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=d24a234d39aadcd4a91fbb701c8554a5}{Kudo}{K\bibinitperiod}{Hiroyuki}{H\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {IOP Publishing}%
+      }
+      \strng{namehash}{553f343c8918244a32d9095c3f82610a}
+      \strng{fullhash}{262020bf650d7d184839a0a53e3679dd}
+      \field{sortinit}{D}
+      \field{labelyear}{2006}
+      \field{datelabelsource}{}
+      \field{labeltitle}{Truncated Hilbert transform and image reconstruction from limited tomographic data}
+      \field{journaltitle}{Inverse problems}
+      \field{number}{3}
+      \field{title}{Truncated Hilbert transform and image reconstruction from limited tomographic data}
+      \field{volume}{22}
+      \field{year}{2006}
+      \field{pages}{1037}
+    \endentry
+    \entry{eyges1948multiple}{article}{}
+      \name{labelname}{1}{}{%
+        {{uniquename=0,hash=889138f8f68fd64a00a7184ab54f978d}{Eyges}{E\bibinitperiod}{Leonard}{L\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=889138f8f68fd64a00a7184ab54f978d}{Eyges}{E\bibinitperiod}{Leonard}{L\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {APS}%
+      }
+      \strng{namehash}{889138f8f68fd64a00a7184ab54f978d}
+      \strng{fullhash}{889138f8f68fd64a00a7184ab54f978d}
+      \field{sortinit}{E}
+      \field{labelyear}{1948}
+      \field{datelabelsource}{}
+      \field{labeltitle}{Multiple scattering with energy loss}
+      \field{journaltitle}{Physical Review}
+      \field{number}{10}
+      \field{title}{Multiple scattering with energy loss}
+      \field{volume}{74}
+      \field{year}{1948}
+      \field{pages}{1534}
+    \endentry
+    \entry{ptcog}{misc}{}
+      \name{labelname}{1}{}{%
+        {{uniquename=1,hash=27ff4e8ab8a00ede621b35b734035079}{Group}{G\bibinitperiod}{Particle\bibnamedelimb Therapy\bibnamedelima Co-Operative}{P\bibinitperiod\bibinitdelim T\bibinitperiod\bibinitdelim C\bibinithyphendelim O\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{uniquename=1,hash=27ff4e8ab8a00ede621b35b734035079}{Group}{G\bibinitperiod}{Particle\bibnamedelimb Therapy\bibnamedelima Co-Operative}{P\bibinitperiod\bibinitdelim T\bibinitperiod\bibinitdelim C\bibinithyphendelim O\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{27ff4e8ab8a00ede621b35b734035079}
+      \strng{fullhash}{27ff4e8ab8a00ede621b35b734035079}
+      \field{sortinit}{G}
+      \field{labelyear}{2016}
+      \field{datelabelsource}{}
+      \field{labeltitle}{Facilities in Operation, Facilities under Construction}
+      \field{title}{Facilities in Operation, Facilities under Construction}
+      \field{year}{2016}
+      \verb{url}
+      \verb http://www.ptcog.ch/index.php
+      \endverb
+    \endentry
+    \entry{hanson1978application}{article}{}
+      \name{labelname}{8}{}{%
+        {{uniquename=0,hash=efd0a76b091ba5847f7f8ce37b31924d}{Hanson}{H\bibinitperiod}{KM}{K\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=e59f88f5c265dc6fa1738d3daf08ecbf}{Bradbury}{B\bibinitperiod}{JN}{J\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=ca14c2fcd9cf0873ed591382a2abde0d}{Cannon}{C\bibinitperiod}{TM}{T\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=4879a1b76b5b2681870b5cb9e5fe77cf}{Hutson}{H\bibinitperiod}{RL}{R\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=4933e3f729ebd21fd770e60082a9e95e}{Laubacher}{L\bibinitperiod}{DB}{D\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=7099569edd65090d534810a86631749c}{Macek}{M\bibinitperiod}{R}{R\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=5e26cc1b6c476f91d389bc4dd6d634e2}{Paciotti}{P\bibinitperiod}{MA}{M\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=78a31952f7108eeea2b2b6ad117f44fe}{Taylor}{T\bibinitperiod}{CA}{C\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{8}{}{%
+        {{uniquename=0,hash=efd0a76b091ba5847f7f8ce37b31924d}{Hanson}{H\bibinitperiod}{KM}{K\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=e59f88f5c265dc6fa1738d3daf08ecbf}{Bradbury}{B\bibinitperiod}{JN}{J\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=ca14c2fcd9cf0873ed591382a2abde0d}{Cannon}{C\bibinitperiod}{TM}{T\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=4879a1b76b5b2681870b5cb9e5fe77cf}{Hutson}{H\bibinitperiod}{RL}{R\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=4933e3f729ebd21fd770e60082a9e95e}{Laubacher}{L\bibinitperiod}{DB}{D\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=7099569edd65090d534810a86631749c}{Macek}{M\bibinitperiod}{R}{R\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=5e26cc1b6c476f91d389bc4dd6d634e2}{Paciotti}{P\bibinitperiod}{MA}{M\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=78a31952f7108eeea2b2b6ad117f44fe}{Taylor}{T\bibinitperiod}{CA}{C\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {LWW}%
+      }
+      \strng{namehash}{118f9674ccd5fa4d0b8f2d3387c13754}
+      \strng{fullhash}{0601c7264323d0e77338aaf21b764572}
+      \field{sortinit}{H}
+      \field{labelyear}{1978}
+      \field{datelabelsource}{}
+      \field{labeltitle}{THE APPLICATION OF PROTONS TO COMPUTED TOMOGRAPHY.}
+      \field{journaltitle}{Journal of Computer Assisted Tomography}
+      \field{number}{5}
+      \field{title}{THE APPLICATION OF PROTONS TO COMPUTED TOMOGRAPHY.}
+      \field{volume}{2}
+      \field{year}{1978}
+      \field{pages}{671\bibrangedash 674}
+    \endentry
+    \entry{hurley2012phase}{article}{}
+      \name{labelname}{6}{}{%
+        {{uniquename=0,hash=3a53232af934fa18f4eb0a99509c1fcf}{Hurley}{H\bibinitperiod}{RF}{R\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=dcbbbeb4c46f80bddc39868135f61dae}{Schulte}{S\bibinitperiod}{RW}{R\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=5fcd6c4d262f44379c6fa468211d369e}{Bashkirov}{B\bibinitperiod}{VA}{V\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=f4efb2ad583a33076ccefb20f9f89506}{Coutrakon}{C\bibinitperiod}{G}{G\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=05641778cc2e412f8d4d32bda0803ad2}{Sadrozinski}{S\bibinitperiod}{HF-W}{H\bibinithyphendelim W\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=d5d8fc73929e34adc0e3eb1a8c4c1823}{Patyal}{P\bibinitperiod}{B}{B\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{6}{}{%
+        {{uniquename=0,hash=3a53232af934fa18f4eb0a99509c1fcf}{Hurley}{H\bibinitperiod}{RF}{R\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=dcbbbeb4c46f80bddc39868135f61dae}{Schulte}{S\bibinitperiod}{RW}{R\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=5fcd6c4d262f44379c6fa468211d369e}{Bashkirov}{B\bibinitperiod}{VA}{V\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=f4efb2ad583a33076ccefb20f9f89506}{Coutrakon}{C\bibinitperiod}{G}{G\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=05641778cc2e412f8d4d32bda0803ad2}{Sadrozinski}{S\bibinitperiod}{HF-W}{H\bibinithyphendelim W\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=d5d8fc73929e34adc0e3eb1a8c4c1823}{Patyal}{P\bibinitperiod}{B}{B\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {NIH Public Access}%
+      }
+      \strng{namehash}{b40a50b0a5401198bc1ca403ba0a1c52}
+      \strng{fullhash}{5f280ad9af5993826a2a010e4fe28de8}
+      \field{sortinit}{H}
+      \field{labelyear}{2012}
+      \field{datelabelsource}{}
+      \field{labeltitle}{The phase I proton CT scanner and test beam results at LLUMC, invited}
+      \field{journaltitle}{Transactions of the American Nuclear Society}
+      \field{title}{The phase I proton CT scanner and test beam results at LLUMC, invited}
+      \field{volume}{106}
+      \field{year}{2012}
+      \field{pages}{63}
+    \endentry
+    \entry{avinash1988principles}{book}{}
+      \name{labelname}{2}{}{%
+        {{uniquename=0,hash=7300373f76a9f9bbd75584bcba145278}{Kak}{K\bibinitperiod}{Avinash\bibnamedelima C..}{A\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=af3eb849c7bb824718da580e0514e62b}{Slaney}{S\bibinitperiod}{Malcolm}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{uniquename=0,hash=7300373f76a9f9bbd75584bcba145278}{Kak}{K\bibinitperiod}{Avinash\bibnamedelima C..}{A\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=af3eb849c7bb824718da580e0514e62b}{Slaney}{S\bibinitperiod}{Malcolm}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {IEEE press}%
+      }
+      \strng{namehash}{6c4b11020ceefcdb39beab26ca93f7ba}
+      \strng{fullhash}{6c4b11020ceefcdb39beab26ca93f7ba}
+      \field{sortinit}{K}
+      \field{labelyear}{1988}
+      \field{datelabelsource}{}
+      \field{labeltitle}{Principles of computerized tomographic imaging}
+      \field{title}{Principles of computerized tomographic imaging}
+      \field{year}{1988}
+    \endentry
+    \entry{li2006reconstruction}{article}{}
+      \name{labelname}{6}{}{%
+        {{uniquename=0,hash=6c8dbb08d730cf054057f8d2811269f2}{Li}{L\bibinitperiod}{Tianfang}{T\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=efe3487aa909117b5b4bdd174712bd4b}{Liang}{L\bibinitperiod}{Zhengrong}{Z\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=592fbf27480de42b155a5e8e1748dc38}{Singanallur}{S\bibinitperiod}{Jayalakshmi\bibnamedelima V}{J\bibinitperiod\bibinitdelim V\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=2ba2a4cf31472e1eeaa9ded2c16a7fee}{Satogata}{S\bibinitperiod}{Todd\bibnamedelima J}{T\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=21cac244763ec0144ea490d7d964eb16}{Williams}{W\bibinitperiod}{David\bibnamedelima C}{D\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=9e337ce2735fd8d5bb6ba3c32c3357a9}{Schulte}{S\bibinitperiod}{Reinhard\bibnamedelima W}{R\bibinitperiod\bibinitdelim W\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{6}{}{%
+        {{uniquename=0,hash=6c8dbb08d730cf054057f8d2811269f2}{Li}{L\bibinitperiod}{Tianfang}{T\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=efe3487aa909117b5b4bdd174712bd4b}{Liang}{L\bibinitperiod}{Zhengrong}{Z\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=592fbf27480de42b155a5e8e1748dc38}{Singanallur}{S\bibinitperiod}{Jayalakshmi\bibnamedelima V}{J\bibinitperiod\bibinitdelim V\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=2ba2a4cf31472e1eeaa9ded2c16a7fee}{Satogata}{S\bibinitperiod}{Todd\bibnamedelima J}{T\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=21cac244763ec0144ea490d7d964eb16}{Williams}{W\bibinitperiod}{David\bibnamedelima C}{D\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=9e337ce2735fd8d5bb6ba3c32c3357a9}{Schulte}{S\bibinitperiod}{Reinhard\bibnamedelima W}{R\bibinitperiod\bibinitdelim W\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {American Association of Physicists in Medicine}%
+      }
+      \strng{namehash}{d50be3f26a34f4d8b5130e406aa06b37}
+      \strng{fullhash}{f3a00124413ad3316626d164bcd2255b}
+      \field{sortinit}{L}
+      \field{labelyear}{2006}
+      \field{datelabelsource}{}
+      \field{labeltitle}{Reconstruction for proton computed tomography by tracing proton trajectories: A Monte Carlo study}
+      \field{journaltitle}{Medical physics}
+      \field{number}{3}
+      \field{title}{Reconstruction for proton computed tomography by tracing proton trajectories: A Monte Carlo study}
+      \field{volume}{33}
+      \field{year}{2006}
+      \field{pages}{699\bibrangedash 706}
+    \endentry
+    \entry{nakamura2010review}{article}{}
+      \true{morelabelname}
+      \name{labelname}{2}{}{%
+        {{uniquename=0,hash=85ea3fc5e81dcc0d182a52170ea12635}{Nakamura}{N\bibinitperiod}{Kenzo}{K\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=d7d47d2eef23ea0bd567b56a270fcdac}{Group}{G\bibinitperiod}{Particle\bibnamedelima Data}{P\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
+      }
+      \true{moreauthor}
+      \name{author}{2}{}{%
+        {{uniquename=0,hash=85ea3fc5e81dcc0d182a52170ea12635}{Nakamura}{N\bibinitperiod}{Kenzo}{K\bibinitperiod}{}{}{}{}}%
+        {{uniquename=1,hash=d7d47d2eef23ea0bd567b56a270fcdac}{Group}{G\bibinitperiod}{Particle\bibnamedelima Data}{P\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {IOP Publishing}%
+      }
+      \strng{namehash}{2cc0e85ff62a79c55717c8a93d98af55}
+      \strng{fullhash}{8fc856583983d2f0e7a5f2e8e90302c5}
+      \field{sortinit}{N}
+      \field{labelyear}{2010}
+      \field{datelabelsource}{}
+      \field{labeltitle}{Review of particle physics}
+      \field{journaltitle}{Journal of Physics G: Nuclear and Particle Physics}
+      \field{number}{7A}
+      \field{title}{Review of particle physics}
+      \field{volume}{37}
+      \field{year}{2010}
+      \field{pages}{075021}
+    \endentry
+    \entry{noo2004two}{article}{}
+      \name{labelname}{3}{}{%
+        {{uniquename=0,hash=890cbf93e78c865a760a9760ef4216ba}{Noo}{N\bibinitperiod}{Frederic}{F\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=139f13f2046485f048466c3f162791e9}{Clackdoyle}{C\bibinitperiod}{Rolf}{R\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=a7369e8c13b9e2aebf52b8159170ba26}{Pack}{P\bibinitperiod}{Jed\bibnamedelima D}{J\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{uniquename=0,hash=890cbf93e78c865a760a9760ef4216ba}{Noo}{N\bibinitperiod}{Frederic}{F\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=139f13f2046485f048466c3f162791e9}{Clackdoyle}{C\bibinitperiod}{Rolf}{R\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=a7369e8c13b9e2aebf52b8159170ba26}{Pack}{P\bibinitperiod}{Jed\bibnamedelima D}{J\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {IOP Publishing}%
+      }
+      \strng{namehash}{fa3b837aa62ba3c94843b9e8df65b2bc}
+      \strng{fullhash}{fa3b837aa62ba3c94843b9e8df65b2bc}
+      \field{sortinit}{N}
+      \field{labelyear}{2004}
+      \field{datelabelsource}{}
+      \field{labeltitle}{A two-step Hilbert transform method for 2D image reconstruction}
+      \field{journaltitle}{Physics in Medicine and Biology}
+      \field{number}{17}
+      \field{title}{A two-step Hilbert transform method for 2D image reconstruction}
+      \field{volume}{49}
+      \field{year}{2004}
+      \field{pages}{3903}
+    \endentry
+    \entry{paganetti2012range}{article}{}
+      \name{labelname}{1}{}{%
+        {{uniquename=0,hash=7992e0c93e5cf1cdc84e30995a84c3ad}{Paganetti}{P\bibinitperiod}{Harald}{H\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=7992e0c93e5cf1cdc84e30995a84c3ad}{Paganetti}{P\bibinitperiod}{Harald}{H\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {IOP Publishing}%
+      }
+      \strng{namehash}{7992e0c93e5cf1cdc84e30995a84c3ad}
+      \strng{fullhash}{7992e0c93e5cf1cdc84e30995a84c3ad}
+      \field{sortinit}{P}
+      \field{labelyear}{2012}
+      \field{datelabelsource}{}
+      \field{labeltitle}{Range uncertainties in proton therapy and the role of Monte Carlo simulations}
+      \field{journaltitle}{Physics in medicine and biology}
+      \field{number}{11}
+      \field{title}{Range uncertainties in proton therapy and the role of Monte Carlo simulations}
+      \field{volume}{57}
+      \field{year}{2012}
+      \field{pages}{R99}
+    \endentry
+    \entry{poludniowski2014proton}{article}{}
+      \name{labelname}{3}{}{%
+        {{uniquename=0,hash=9c32a6b1569e7d3661664d8574584902}{Poludniowski}{P\bibinitperiod}{G}{G\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=a82954b3a87dede9c0d5f86de5c5e577}{Allinson}{A\bibinitperiod}{NM}{N\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=025af51ea1184e73a1b8bc6d33179811}{Evans}{E\bibinitperiod}{PM}{P\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{uniquename=0,hash=9c32a6b1569e7d3661664d8574584902}{Poludniowski}{P\bibinitperiod}{G}{G\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=a82954b3a87dede9c0d5f86de5c5e577}{Allinson}{A\bibinitperiod}{NM}{N\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=025af51ea1184e73a1b8bc6d33179811}{Evans}{E\bibinitperiod}{PM}{P\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {IOP Publishing}%
+      }
+      \strng{namehash}{7a0ebf34b07476da4d00bfd0b60f76cd}
+      \strng{fullhash}{7a0ebf34b07476da4d00bfd0b60f76cd}
+      \field{sortinit}{P}
+      \field{labelyear}{2014}
+      \field{datelabelsource}{}
+      \field{labeltitle}{Proton computed tomography reconstruction using a backprojection-then-filtering approach}
+      \field{journaltitle}{Physics in medicine and biology}
+      \field{number}{24}
+      \field{title}{Proton computed tomography reconstruction using a backprojection-then-filtering approach}
+      \field{volume}{59}
+      \field{year}{2014}
+      \field{pages}{7905}
+    \endentry
+    \entry{rit2015list}{inproceedings}{}
+      \name{labelname}{4}{uniquelist=2}{%
+        {{uniquename=0,hash=b0e6875c7a17dcb224cff4774e854aa2}{Rit}{R\bibinitperiod}{Simon}{S\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=139f13f2046485f048466c3f162791e9}{Clackdoyle}{C\bibinitperiod}{Rolf}{R\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=be6de804b288f08598945ce27271b25b}{Hoskovec}{H\bibinitperiod}{Jan}{J\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=01fee3314bbf99fa3968307e554b1845}{Létang}{L\bibinitperiod}{Jean\bibnamedelima Michel}{J\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{4}{uniquelist=2}{%
+        {{uniquename=0,hash=b0e6875c7a17dcb224cff4774e854aa2}{Rit}{R\bibinitperiod}{Simon}{S\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=139f13f2046485f048466c3f162791e9}{Clackdoyle}{C\bibinitperiod}{Rolf}{R\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=be6de804b288f08598945ce27271b25b}{Hoskovec}{H\bibinitperiod}{Jan}{J\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=01fee3314bbf99fa3968307e554b1845}{Létang}{L\bibinitperiod}{Jean\bibnamedelima Michel}{J\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{3109b82f07b863b13d54bfc9955e8fe2}
+      \strng{fullhash}{791d8fca614d0b9728e0f17e24cfdb07}
+      \field{sortinit}{R}
+      \field{labelyear}{2015}
+      \field{datelabelsource}{}
+      \field{labeltitle}{List-mode proton CT reconstruction using their most likely paths via the finite Hilbert transform of the derivative of the backprojection}
+      \field{booktitle}{The 13th International Meeting on Fully Three-Dimensional Image Reconstruction in Radiology and Nuclear Medicine}
+      \field{title}{List-mode proton CT reconstruction using their most likely paths via the finite Hilbert transform of the derivative of the backprojection}
+      \field{year}{2015}
+      \field{pages}{324\bibrangedash 327}
+    \endentry
+    \entry{rit2012distance}{inproceedings}{}
+      \name{labelname}{4}{uniquelist=2}{%
+        {{uniquename=0,hash=b0e6875c7a17dcb224cff4774e854aa2}{Rit}{R\bibinitperiod}{Simon}{S\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=75a80669ba582ffa9adf513214aeebc0}{Freud}{F\bibinitperiod}{Nicolas}{N\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=7b579365d32e79310de144a07d49c909}{Sarrut}{S\bibinitperiod}{David}{D\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=6c4b4a6ac6599e6dcd890a76f7c7388a}{Letang}{L\bibinitperiod}{Jean-Michel}{J\bibinithyphendelim M\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{4}{uniquelist=2}{%
+        {{uniquename=0,hash=b0e6875c7a17dcb224cff4774e854aa2}{Rit}{R\bibinitperiod}{Simon}{S\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=75a80669ba582ffa9adf513214aeebc0}{Freud}{F\bibinitperiod}{Nicolas}{N\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=7b579365d32e79310de144a07d49c909}{Sarrut}{S\bibinitperiod}{David}{D\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=6c4b4a6ac6599e6dcd890a76f7c7388a}{Letang}{L\bibinitperiod}{Jean-Michel}{J\bibinithyphendelim M\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{7807d1e39c9df62d1797a934db030699}
+      \strng{fullhash}{206a93f6e7fa5157739fcda5141bda2f}
+      \field{sortinit}{R}
+      \field{labelyear}{2012}
+      \field{datelabelsource}{}
+      \field{labeltitle}{Distance-driven binning for proton CT filtered backprojection along most likely paths}
+      \field{booktitle}{Second International Conference on Image Formation in X-Ray Computed Tomography}
+      \field{title}{Distance-driven binning for proton CT filtered backprojection along most likely paths}
+      \field{year}{2012}
+      \field{pages}{382}
+    \endentry
+    \entry{schneider1996calibration}{article}{}
+      \name{labelname}{3}{}{%
+        {{uniquename=0,hash=7919e220a944201d4856dfc7b41dc064}{Schneider}{S\bibinitperiod}{Uwe}{U\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=c18d59b847a38873a898f2cbf04b5334}{Pedroni}{P\bibinitperiod}{Eros}{E\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=4337cb0db79c2d0f68a4fc5ba19512d1}{Lomax}{L\bibinitperiod}{Antony}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{uniquename=0,hash=7919e220a944201d4856dfc7b41dc064}{Schneider}{S\bibinitperiod}{Uwe}{U\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=c18d59b847a38873a898f2cbf04b5334}{Pedroni}{P\bibinitperiod}{Eros}{E\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=4337cb0db79c2d0f68a4fc5ba19512d1}{Lomax}{L\bibinitperiod}{Antony}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {IOP Publishing}%
+      }
+      \strng{namehash}{a2ff61f142edd078d643b9c852959bc7}
+      \strng{fullhash}{a2ff61f142edd078d643b9c852959bc7}
+      \field{sortinit}{S}
+      \field{labelyear}{1996}
+      \field{datelabelsource}{}
+      \field{labeltitle}{The calibration of CT Hounsfield units for radiotherapy treatment planning}
+      \field{journaltitle}{Physics in medicine and biology}
+      \field{number}{1}
+      \field{title}{The calibration of CT Hounsfield units for radiotherapy treatment planning}
+      \field{volume}{41}
+      \field{year}{1996}
+      \field{pages}{111}
+    \endentry
+    \entry{schulte2005density}{article}{}
+      \name{labelname}{8}{}{%
+        {{uniquename=1,hash=9e337ce2735fd8d5bb6ba3c32c3357a9}{Schulte}{S\bibinitperiod}{Reinhard\bibnamedelima W}{R\bibinitperiod\bibinitdelim W\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=83559b898f18392fc4cd2fbb515eb74c}{Bashkirov}{B\bibinitperiod}{Vladimir}{V\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=7491eb40b52fc88f1f7cce3150c9c3fd}{Klock}{K\bibinitperiod}{Márgio\bibnamedelimb C\bibnamedelima Loss}{M\bibinitperiod\bibinitdelim C\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=6c8dbb08d730cf054057f8d2811269f2}{Li}{L\bibinitperiod}{Tianfang}{T\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=a4d798159d590aa08058e12473939505}{Wroe}{W\bibinitperiod}{Andrew\bibnamedelima J}{A\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=7dc960c7b0082112d60e2ae015f9d830}{Evseev}{E\bibinitperiod}{Ivan}{I\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=21cac244763ec0144ea490d7d964eb16}{Williams}{W\bibinitperiod}{David\bibnamedelima C}{D\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=721a5a535413644ea4fcaf7c5e5e6226}{Satogata}{S\bibinitperiod}{Todd}{T\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{8}{}{%
+        {{uniquename=1,hash=9e337ce2735fd8d5bb6ba3c32c3357a9}{Schulte}{S\bibinitperiod}{Reinhard\bibnamedelima W}{R\bibinitperiod\bibinitdelim W\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=83559b898f18392fc4cd2fbb515eb74c}{Bashkirov}{B\bibinitperiod}{Vladimir}{V\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=7491eb40b52fc88f1f7cce3150c9c3fd}{Klock}{K\bibinitperiod}{Márgio\bibnamedelimb C\bibnamedelima Loss}{M\bibinitperiod\bibinitdelim C\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=6c8dbb08d730cf054057f8d2811269f2}{Li}{L\bibinitperiod}{Tianfang}{T\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=a4d798159d590aa08058e12473939505}{Wroe}{W\bibinitperiod}{Andrew\bibnamedelima J}{A\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=7dc960c7b0082112d60e2ae015f9d830}{Evseev}{E\bibinitperiod}{Ivan}{I\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=21cac244763ec0144ea490d7d964eb16}{Williams}{W\bibinitperiod}{David\bibnamedelima C}{D\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=721a5a535413644ea4fcaf7c5e5e6226}{Satogata}{S\bibinitperiod}{Todd}{T\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {American Association of Physicists in Medicine}%
+      }
+      \strng{namehash}{859029393612e33f6f4b4ccc74bd63b1}
+      \strng{fullhash}{94881ea134777b9364d0ee5a78385748}
+      \field{sortinit}{S}
+      \field{labelyear}{2005}
+      \field{datelabelsource}{}
+      \field{labeltitle}{Density resolution of proton computed tomography}
+      \field{journaltitle}{Medical physics}
+      \field{number}{4}
+      \field{title}{Density resolution of proton computed tomography}
+      \field{volume}{32}
+      \field{year}{2005}
+      \field{pages}{1035\bibrangedash 1046}
+    \endentry
+    \entry{schulte2008maximum}{article}{}
+      \name{labelname}{4}{}{%
+        {{uniquename=1,hash=dcbbbeb4c46f80bddc39868135f61dae}{Schulte}{S\bibinitperiod}{RW}{R\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=827c43f8b7c9dbca545c8ad81251244d}{Penfold}{P\bibinitperiod}{SN}{S\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=c7678de8406367e5584fafa44841dfc9}{Tafas}{T\bibinitperiod}{JT}{J\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=b4827cd08ecb72951ad54008d316f219}{Schubert}{S\bibinitperiod}{KE}{K\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{4}{}{%
+        {{uniquename=1,hash=dcbbbeb4c46f80bddc39868135f61dae}{Schulte}{S\bibinitperiod}{RW}{R\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=827c43f8b7c9dbca545c8ad81251244d}{Penfold}{P\bibinitperiod}{SN}{S\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=c7678de8406367e5584fafa44841dfc9}{Tafas}{T\bibinitperiod}{JT}{J\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=b4827cd08ecb72951ad54008d316f219}{Schubert}{S\bibinitperiod}{KE}{K\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {American Association of Physicists in Medicine}%
+      }
+      \strng{namehash}{4b89996cd1a3a49ef614200aa56dbadf}
+      \strng{fullhash}{e4407b369bfd26f4e023bc88609fc972}
+      \field{sortinit}{S}
+      \field{labelyear}{2008}
+      \field{datelabelsource}{}
+      \field{labeltitle}{A maximum likelihood proton path formalism for application in proton computed tomography}
+      \field{journaltitle}{Medical physics}
+      \field{number}{11}
+      \field{title}{A maximum likelihood proton path formalism for application in proton computed tomography}
+      \field{volume}{35}
+      \field{year}{2008}
+      \field{pages}{4849\bibrangedash 4856}
+    \endentry
+    \entry{shepp1974fourier}{article}{}
+      \name{labelname}{2}{}{%
+        {{uniquename=0,hash=4a64dfa5cdb5244c833bfbc9b6a05e25}{Shepp}{S\bibinitperiod}{Lawrence\bibnamedelima A}{L\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=603e80f849a10215dfac6e72eba5d36e}{Logan}{L\bibinitperiod}{Benjamin\bibnamedelima F}{B\bibinitperiod\bibinitdelim F\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{uniquename=0,hash=4a64dfa5cdb5244c833bfbc9b6a05e25}{Shepp}{S\bibinitperiod}{Lawrence\bibnamedelima A}{L\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=603e80f849a10215dfac6e72eba5d36e}{Logan}{L\bibinitperiod}{Benjamin\bibnamedelima F}{B\bibinitperiod\bibinitdelim F\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{31b8b8014d9c1a31ff66b6ac02066bc6}
+      \strng{fullhash}{31b8b8014d9c1a31ff66b6ac02066bc6}
+      \field{sortinit}{S}
+      \field{labelyear}{1974}
+      \field{datelabelsource}{}
+      \field{labeltitle}{The Fourier reconstruction of a head section}
+      \field{journaltitle}{IEEE Transactions on Nuclear Science}
+      \field{number}{3}
+      \field{title}{The Fourier reconstruction of a head section}
+      \field{volume}{21}
+      \field{year}{1974}
+      \field{pages}{21\bibrangedash 43}
+    \endentry
+    \entry{siddon1985fast}{article}{}
+      \name{labelname}{1}{}{%
+        {{uniquename=0,hash=f346fe83cb1ae2ac66a7b7a42ac530c9}{Siddon}{S\bibinitperiod}{Robert\bibnamedelima L}{R\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=f346fe83cb1ae2ac66a7b7a42ac530c9}{Siddon}{S\bibinitperiod}{Robert\bibnamedelima L}{R\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {American Association of Physicists in Medicine}%
+      }
+      \strng{namehash}{f346fe83cb1ae2ac66a7b7a42ac530c9}
+      \strng{fullhash}{f346fe83cb1ae2ac66a7b7a42ac530c9}
+      \field{sortinit}{S}
+      \field{labelyear}{1985}
+      \field{datelabelsource}{}
+      \field{labeltitle}{Fast calculation of the exact radiological path for a three-dimensional CT array}
+      \field{journaltitle}{Medical physics}
+      \field{number}{2}
+      \field{title}{Fast calculation of the exact radiological path for a three-dimensional CT array}
+      \field{volume}{12}
+      \field{year}{1985}
+      \field{pages}{252\bibrangedash 255}
+    \endentry
+    \entry{nist}{misc}{}
+      \name{labelname}{2}{}{%
+        {{uniquename=0,hash=d0c519195db0fc9f371cc902aadc59bc}{Standards}{S\bibinitperiod}{National\bibnamedelima Institute}{N\bibinitperiod\bibinitdelim I\bibinitperiod}{for}{f\bibinitperiod}{}{}}%
+        {{uniquename=0,hash=e7e767d7c0e58b16e57d3ab16150db80}{Technology}{T\bibinitperiod}{}{}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{uniquename=0,hash=d0c519195db0fc9f371cc902aadc59bc}{Standards}{S\bibinitperiod}{National\bibnamedelima Institute}{N\bibinitperiod\bibinitdelim I\bibinitperiod}{for}{f\bibinitperiod}{}{}}%
+        {{uniquename=0,hash=e7e767d7c0e58b16e57d3ab16150db80}{Technology}{T\bibinitperiod}{}{}{}{}{}{}}%
+      }
+      \strng{namehash}{526d77c6506756431270abfc2d312d68}
+      \strng{fullhash}{526d77c6506756431270abfc2d312d68}
+      \field{sortinit}{S}
+      \field{labelyear}{2015}
+      \field{datelabelsource}{}
+      \field{labeltitle}{Material Composition database}
+      \field{title}{Material Composition database}
+      \field{year}{2015}
+      \verb{url}
+      \verb http://www.physics.nist.gov/cgi-bin/Star/compos.pl
+      \endverb
+    \endentry
+    \entry{suzuki1988comparison}{article}{}
+      \name{labelname}{2}{}{%
+        {{uniquename=0,hash=6d1a458e3697a36c376e4f9328615afa}{Suzuki}{S\bibinitperiod}{Shigehito}{S\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=35cd5d74866c633e25206eec02e54e38}{Yamaguchi}{Y\bibinitperiod}{Shigeatsu}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{uniquename=0,hash=6d1a458e3697a36c376e4f9328615afa}{Suzuki}{S\bibinitperiod}{Shigehito}{S\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=35cd5d74866c633e25206eec02e54e38}{Yamaguchi}{Y\bibinitperiod}{Shigeatsu}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Optical Society of America}%
+      }
+      \strng{namehash}{a389b099720b840f11c3f0d5cf5e3d87}
+      \strng{fullhash}{a389b099720b840f11c3f0d5cf5e3d87}
+      \field{sortinit}{S}
+      \field{labelyear}{1988}
+      \field{datelabelsource}{}
+      \field{labeltitle}{Comparison between an image reconstruction method of filtering backprojection and the filtered backprojection method}
+      \field{journaltitle}{Applied optics}
+      \field{number}{14}
+      \field{title}{Comparison between an image reconstruction method of filtering backprojection and the filtered backprojection method}
+      \field{volume}{27}
+      \field{year}{1988}
+      \field{pages}{2867\bibrangedash 2870}
+    \endentry
+    \entry{williams2004most}{article}{}
+      \name{labelname}{1}{}{%
+        {{uniquename=0,hash=e473743a0acba4a99e7de16cd426e854}{Williams}{W\bibinitperiod}{DC}{D\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=e473743a0acba4a99e7de16cd426e854}{Williams}{W\bibinitperiod}{DC}{D\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {IOP Publishing}%
+      }
+      \strng{namehash}{e473743a0acba4a99e7de16cd426e854}
+      \strng{fullhash}{e473743a0acba4a99e7de16cd426e854}
+      \field{sortinit}{W}
+      \field{labelyear}{2004}
+      \field{datelabelsource}{}
+      \field{labeltitle}{The most likely path of an energetic charged particle through a uniform medium}
+      \field{journaltitle}{Physics in medicine and biology}
+      \field{number}{13}
+      \field{title}{The most likely path of an energetic charged particle through a uniform medium}
+      \field{volume}{49}
+      \field{year}{2004}
+      \field{pages}{2899}
+    \endentry
+    \entry{wilson1946radiological}{article}{}
+      \name{labelname}{1}{}{%
+        {{uniquename=0,hash=be7d528225bca2a4938d856076501826}{Wilson}{W\bibinitperiod}{Robert\bibnamedelima R}{R\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=be7d528225bca2a4938d856076501826}{Wilson}{W\bibinitperiod}{Robert\bibnamedelima R}{R\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {The Radiological Society of North America}%
+      }
+      \strng{namehash}{be7d528225bca2a4938d856076501826}
+      \strng{fullhash}{be7d528225bca2a4938d856076501826}
+      \field{sortinit}{W}
+      \field{labelyear}{1946}
+      \field{datelabelsource}{}
+      \field{labeltitle}{Radiological use of fast protons}
+      \field{journaltitle}{Radiology}
+      \field{number}{5}
+      \field{title}{Radiological use of fast protons}
+      \field{volume}{47}
+      \field{year}{1946}
+      \field{pages}{487\bibrangedash 491}
+    \endentry
+    \entry{yang2012comprehensive}{article}{}
+      \name{labelname}{8}{}{%
+        {{uniquename=0,hash=9845261412338f09f9fda112e8d5206d}{Yang}{Y\bibinitperiod}{Ming}{M\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=e94bea009a17913cdbffb9decfc299c8}{Zhu}{Z\bibinitperiod}{X\bibnamedelima Ronald}{X\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=86c46b1df1cec50942d5bf93f8a094c4}{Park}{P\bibinitperiod}{Peter\bibnamedelima C}{P\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=ff777bbbf68f4d428b764810dae6d543}{Titt}{T\bibinitperiod}{Uwe}{U\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=6995cbad463b098239496415cb942cf5}{Mohan}{M\bibinitperiod}{Radhe}{R\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=d6259b0877644f15e7619446a1bda1c2}{Virshup}{V\bibinitperiod}{Gary}{G\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=6babbef3efba356a61f477dec816c9ac}{Clayton}{C\bibinitperiod}{James\bibnamedelima E}{J\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=6d29120ecdceaf72899342dc40cae69d}{Dong}{D\bibinitperiod}{Lei}{L\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{8}{}{%
+        {{uniquename=0,hash=9845261412338f09f9fda112e8d5206d}{Yang}{Y\bibinitperiod}{Ming}{M\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=e94bea009a17913cdbffb9decfc299c8}{Zhu}{Z\bibinitperiod}{X\bibnamedelima Ronald}{X\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=86c46b1df1cec50942d5bf93f8a094c4}{Park}{P\bibinitperiod}{Peter\bibnamedelima C}{P\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=ff777bbbf68f4d428b764810dae6d543}{Titt}{T\bibinitperiod}{Uwe}{U\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=6995cbad463b098239496415cb942cf5}{Mohan}{M\bibinitperiod}{Radhe}{R\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=d6259b0877644f15e7619446a1bda1c2}{Virshup}{V\bibinitperiod}{Gary}{G\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=6babbef3efba356a61f477dec816c9ac}{Clayton}{C\bibinitperiod}{James\bibnamedelima E}{J\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=6d29120ecdceaf72899342dc40cae69d}{Dong}{D\bibinitperiod}{Lei}{L\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {IOP Publishing}%
+      }
+      \strng{namehash}{47181202932d049772d4bc4459431565}
+      \strng{fullhash}{8772e9d938f25f9340a374920cb2c28d}
+      \field{sortinit}{Y}
+      \field{labelyear}{2012}
+      \field{datelabelsource}{}
+      \field{labeltitle}{Comprehensive analysis of proton range uncertainties related to patient stopping-power-ratio estimation using the stoichiometric calibration}
+      \field{journaltitle}{Physics in medicine and biology}
+      \field{number}{13}
+      \field{title}{Comprehensive analysis of proton range uncertainties related to patient stopping-power-ratio estimation using the stoichiometric calibration}
+      \field{volume}{57}
+      \field{year}{2012}
+      \field{pages}{4095}
+    \endentry
+    \entry{zeng2007image}{article}{}
+      \name{labelname}{1}{}{%
+        {{uniquename=0,hash=2f9031c45b25387acb5676f35c38879f}{Zeng}{Z\bibinitperiod}{Gengsheng\bibnamedelima L}{G\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=2f9031c45b25387acb5676f35c38879f}{Zeng}{Z\bibinitperiod}{Gengsheng\bibnamedelima L}{G\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {American Association of Physicists in Medicine}%
+      }
+      \strng{namehash}{2f9031c45b25387acb5676f35c38879f}
+      \strng{fullhash}{2f9031c45b25387acb5676f35c38879f}
+      \field{sortinit}{Z}
+      \field{labelyear}{2007}
+      \field{datelabelsource}{}
+      \field{labeltitle}{Image reconstruction via the finite Hilbert transform of the derivative of the backprojection}
+      \field{journaltitle}{Medical physics}
+      \field{number}{7}
+      \field{title}{Image reconstruction via the finite Hilbert transform of the derivative of the backprojection}
+      \field{volume}{34}
+      \field{year}{2007}
+      \field{pages}{2837\bibrangedash 2843}
+    \endentry
+    \entry{zeng1994backprojection}{article}{}
+      \name{labelname}{2}{}{%
+        {{uniquename=0,hash=2f9031c45b25387acb5676f35c38879f}{Zeng}{Z\bibinitperiod}{Gengsheng\bibnamedelima L}{G\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=bb02abde5d535eebd38fa36208200c89}{Gullberg}{G\bibinitperiod}{Grant\bibnamedelima T}{G\bibinitperiod\bibinitdelim T\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{uniquename=0,hash=2f9031c45b25387acb5676f35c38879f}{Zeng}{Z\bibinitperiod}{Gengsheng\bibnamedelima L}{G\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=bb02abde5d535eebd38fa36208200c89}{Gullberg}{G\bibinitperiod}{Grant\bibnamedelima T}{G\bibinitperiod\bibinitdelim T\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{2dabfa79d66b2e6ecbaef52bb714d8b5}
+      \strng{fullhash}{2dabfa79d66b2e6ecbaef52bb714d8b5}
+      \field{sortinit}{Z}
+      \field{labelyear}{1994}
+      \field{datelabelsource}{}
+      \field{labeltitle}{A backprojection filtering algorithm for a spatially varying focal length collimator}
+      \field{journaltitle}{Medical Imaging, IEEE Transactions on}
+      \field{number}{3}
+      \field{title}{A backprojection filtering algorithm for a spatially varying focal length collimator}
+      \field{volume}{13}
+      \field{year}{1994}
+      \field{pages}{549\bibrangedash 556}
+    \endentry
+    \entry{zeng2007two}{article}{}
+      \name{labelname}{4}{uniquelist=2}{%
+        {{uniquename=0,hash=2f9031c45b25387acb5676f35c38879f}{Zeng}{Z\bibinitperiod}{Gengsheng\bibnamedelima L}{G\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=9ca48b9be4777f058efa1bae527fa64a}{You}{Y\bibinitperiod}{Jiangsjemg}{J\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=309e0f19c6d83f510cb7e6fa3c1fd5ad}{Huang}{H\bibinitperiod}{Qiu}{Q\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=bb02abde5d535eebd38fa36208200c89}{Gullberg}{G\bibinitperiod}{Grant\bibnamedelima T}{G\bibinitperiod\bibinitdelim T\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{4}{uniquelist=2}{%
+        {{uniquename=0,hash=2f9031c45b25387acb5676f35c38879f}{Zeng}{Z\bibinitperiod}{Gengsheng\bibnamedelima L}{G\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=9ca48b9be4777f058efa1bae527fa64a}{You}{Y\bibinitperiod}{Jiangsjemg}{J\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=309e0f19c6d83f510cb7e6fa3c1fd5ad}{Huang}{H\bibinitperiod}{Qiu}{Q\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=bb02abde5d535eebd38fa36208200c89}{Gullberg}{G\bibinitperiod}{Grant\bibnamedelima T}{G\bibinitperiod\bibinitdelim T\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Wiley Online Library}%
+      }
+      \strng{namehash}{a4cd3c4afbd6bfc3a7e94ddc01bfa502}
+      \strng{fullhash}{27864d6d385ee6b1bf364eacf4ac7c17}
+      \field{sortinit}{Z}
+      \field{labelyear}{2007}
+      \field{datelabelsource}{}
+      \field{labeltitle}{Two finite inverse Hilbert transform formulae for region-of-interest tomography}
+      \field{journaltitle}{International journal of imaging systems and technology}
+      \field{number}{4}
+      \field{title}{Two finite inverse Hilbert transform formulae for region-of-interest tomography}
+      \field{volume}{17}
+      \field{year}{2007}
+      \field{pages}{219\bibrangedash 223}
+    \endentry
+    \entry{zhang16computation}{article}{}
+      \name{labelname}{2}{}{%
+        {{uniquename=0,hash=994217566ae2c46e4a45e92911363a01}{Zhang}{Z\bibinitperiod}{Shanjie}{S\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=5e85af03cb3eb19ce758c3fa2287e1ad}{Jin}{J\bibinitperiod}{Jianming}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{uniquename=0,hash=994217566ae2c46e4a45e92911363a01}{Zhang}{Z\bibinitperiod}{Shanjie}{S\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=5e85af03cb3eb19ce758c3fa2287e1ad}{Jin}{J\bibinitperiod}{Jianming}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{efd87a858663edc6791b9410a22e85ec}
+      \strng{fullhash}{efd87a858663edc6791b9410a22e85ec}
+      \field{sortinit}{Z}
+      \field{labelyear}{nodate}
+      \field{labeltitle}{Computation of special functions. 1996}
+      \field{journaltitle}{Chapter}
+      \field{title}{Computation of special functions. 1996}
+      \field{volume}{16}
+      \field{pages}{620\bibrangedash 624}
+    \endentry
+  \endsortlist
+\endrefsection
+\endinput
+

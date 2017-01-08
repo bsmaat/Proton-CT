@@ -1,0 +1,35 @@
+\contentsline {section}{\numberline {1}Introduction}{2}
+\contentsline {subsection}{\numberline {1.1}Proton therapy treatment planning}{2}
+\contentsline {subsection}{\numberline {1.2}Proton detector technology}{3}
+\contentsline {section}{\numberline {2}Method}{3}
+\contentsline {subsection}{\numberline {2.1}Filtered backprojection using convolution}{3}
+\contentsline {subsection}{\numberline {2.2}Backprojection-then-filtering reconstruction}{4}
+\contentsline {subsubsection}{\numberline {2.2.1}Backprojection}{5}
+\contentsline {subsubsection}{\numberline {2.2.2}Filtering}{5}
+\contentsline {subsection}{\numberline {2.3}GEANT4}{6}
+\contentsline {subsection}{\numberline {2.4}Spatial resolution and accuracy}{7}
+\contentsline {subsection}{\numberline {2.5}Simulations}{7}
+\contentsline {section}{\numberline {3}Results}{8}
+\contentsline {subsection}{\numberline {3.1}Filtered backprojection}{8}
+\contentsline {subsection}{\numberline {3.2}Most likely path in water}{10}
+\contentsline {subsection}{\numberline {3.3}Most likely path in phantom}{10}
+\contentsline {subsection}{\numberline {3.4}Backprojection-then-filtering}{11}
+\contentsline {section}{\numberline {4}Discussion}{14}
+\contentsline {section}{\numberline {5}Conclusion}{15}
+\contentsline {section}{\numberline {6}Acknowledgements}{15}
+\contentsline {section}{\numberline {A}Introduction}{16}
+\contentsline {section}{\numberline {B}Proton Computed Tomography}{17}
+\contentsline {section}{\numberline {C}Physics of proton interactions}{17}
+\contentsline {subsection}{\numberline {C.1}Proton relative stopping power}{17}
+\contentsline {section}{\numberline {D}Reconstruction Methods}{18}
+\contentsline {subsection}{\numberline {D.1}Filtered Back Projection}{18}
+\contentsline {subsubsection}{\numberline {D.1.1}Fourier slice theorem}{19}
+\contentsline {subsubsection}{\numberline {D.1.2}Application of FBP to Proton CT}{20}
+\contentsline {subsection}{\numberline {D.2}Algebraic Reconstruction Techniques}{21}
+\contentsline {subsubsection}{\numberline {D.2.1}Image projection}{21}
+\contentsline {subsubsection}{\numberline {D.2.2}Application of ART to proton CT}{22}
+\contentsline {section}{\numberline {E}Proton Path Formalism}{22}
+\contentsline {subsection}{\numberline {E.1}Straight line}{23}
+\contentsline {subsection}{\numberline {E.2}Most likely path}{23}
+\contentsline {subsection}{\numberline {E.3}Cubic spline path}{23}
+\contentsline {section}{\numberline {F}Conclusion}{23}

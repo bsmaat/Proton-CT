@@ -1,0 +1,75 @@
+This is BibTeX, Version 0.99d (TeX Live 2013/Debian)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: report.aux
+The style file: ieeetr.bst
+Database file #1: bibfile.bib
+Repeated entry---line 235 of file bibfile.bib
+ : @article{agostinelli2003geant4
+ :                               ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 306 of file bibfile.bib
+ : @article{williams2004most
+ :                          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 367 of file bibfile.bib
+ : @article{poludniowski2014proton
+ :                                ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 422 of file bibfile.bib
+ : @article{seco2011proof
+ :                       ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 562 of file bibfile.bib
+ : @article{schneider1996calibration
+ :                                  ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 584 of file bibfile.bib
+ : @article{yang2012comprehensive
+ :                               ,
+I'm skipping whatever remains of this entry
+Warning--empty journal in johnson2015fast
+Warning--empty year in zhang16computation
+Warning--empty journal in ritlist
+Warning--empty year in ritlist
+You've used 60 entries,
+            1876 wiz_defined-function locations,
+            837 strings with 15787 characters,
+and the built_in function-call counts, 18585 in all, are:
+= -- 1842
+> -- 841
+< -- 0
++ -- 304
+- -- 244
+* -- 1365
+:= -- 2623
+add.period$ -- 63
+call.type$ -- 60
+change.case$ -- 59
+chr.to.int$ -- 0
+cite$ -- 64
+duplicate$ -- 957
+empty$ -- 1579
+format.name$ -- 244
+if$ -- 4531
+int.to.chr$ -- 0
+int.to.str$ -- 60
+missing$ -- 58
+newline$ -- 187
+num.names$ -- 60
+pop$ -- 148
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 747
+stack$ -- 0
+substring$ -- 1207
+swap$ -- 473
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 4
+while$ -- 174
+width$ -- 62
+write$ -- 628
+(There were 6 error messages)

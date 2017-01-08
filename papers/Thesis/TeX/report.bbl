@@ -1,0 +1,326 @@
+\begin{thebibliography}{10}
+
+\bibitem{ptcog}
+P.~T. C.-O. Group, ``Facilities in operation, facilities under construction,''
+  2016.
+\newblock http://www.ptcog.ch/index.php.
+
+\bibitem{wilson1946radiological}
+R.~R. Wilson, ``Radiological use of fast protons,'' {\em Radiology}, vol.~47,
+  no.~5, pp.~487--491, 1946.
+
+\bibitem{schulte2012new}
+R.~W. Schulte and A.~J. Wroe, ``New developments in treatment planning and
+  verification of particle beam therapy,'' {\em Translational cancer research},
+  vol.~1, no.~3, p.~184, 2012.
+
+\bibitem{erdelyi2011some}
+B.~Erdelyi, ``On some errors and bias in proton computed tomography,'' {\em
+  International Journal of Modern Physics A}, vol.~26, no.~10n11,
+  pp.~1761--1774, 2011.
+
+\bibitem{knopf2013vivo}
+A.-C. Knopf and A.~Lomax, ``In vivo proton range verification: a review,'' {\em
+  Physics in medicine and biology}, vol.~58, no.~15, p.~R131, 2013.
+
+\bibitem{yang2012comprehensive}
+M.~Yang, X.~R. Zhu, P.~C. Park, U.~Titt, R.~Mohan, G.~Virshup, J.~E. Clayton,
+  and L.~Dong, ``Comprehensive analysis of proton range uncertainties related
+  to patient stopping-power-ratio estimation using the stoichiometric
+  calibration,'' {\em Physics in medicine and biology}, vol.~57, no.~13,
+  p.~4095, 2012.
+
+\bibitem{constantinou1992electron}
+C.~Constantinou, J.~C. Harrington, and L.~A. DeWerd, ``An electron density
+  calibration phantom for ct-based treatment planning computers,'' {\em Medical
+  physics}, vol.~19, no.~2, pp.~325--327, 1992.
+
+\bibitem{schneider1996calibration}
+U.~Schneider, E.~Pedroni, and A.~Lomax, ``The calibration of ct hounsfield
+  units for radiotherapy treatment planning,'' {\em Physics in medicine and
+  biology}, vol.~41, no.~1, p.~111, 1996.
+
+\bibitem{yang2010theoretical}
+M.~Yang, G.~Virshup, J.~Clayton, X.~Zhu, R.~Mohan, and L.~Dong, ``Theoretical
+  variance analysis of single-and dual-energy computed tomography methods for
+  calculating proton stopping power ratios of biological tissues,'' {\em
+  Physics in medicine and biology}, vol.~55, no.~5, p.~1343, 2010.
+
+\bibitem{schulte2012overview}
+R.~Schulte, V.~Bashkirov, R.~Johnson, H.-W. Sadrozinski, and K.~Schubert,
+  ``Overview of the llumc/ucsc/csusb phase 2 proton ct project,'' {\em
+  Transactions of the American Nuclear Society}, vol.~106, p.~59, 2012.
+
+\bibitem{bashkirov2016development}
+V.~A. Bashkirov, R.~P. Johnson, H.~F.-W. Sadrozinski, and R.~W. Schulte,
+  ``Development of proton computed tomography detectors for applications in
+  hadron therapy,'' {\em Nuclear Instruments and Methods in Physics Research
+  Section A: Accelerators, Spectrometers, Detectors and Associated Equipment},
+  vol.~809, pp.~120--129, 2016.
+
+\bibitem{hurley2012phase}
+R.~Hurley, R.~Schulte, V.~Bashkirov, G.~Coutrakon, H.-W. Sadrozinski, and
+  B.~Patyal, ``The phase i proton ct scanner and test beam results at llumc,
+  invited,'' {\em Transactions of the American Nuclear Society}, vol.~106,
+  p.~63, 2012.
+
+\bibitem{johnson2015fast}
+R.~P. Johnson, V.~Bashkirov, L.~DeWitt, V.~Giacometti, R.~F. Hurley,
+  P.~Piersimoni, T.~E. Plautz, H.~F.-W. Sadrozinski, K.~Schubert, R.~Schulte,
+  {\em et~al.}, ``A fast experimental scanner for proton ct: Technical
+  performance and first experience with phantom scans,'' 2015.
+
+\bibitem{avinash1988principles}
+A.~C. Kak and M.~Slaney, {\em Principles of computerized tomographic imaging}.
+\newblock IEEE press, 1988.
+
+\bibitem{bates1971towards}
+R.~Bates and T.~Peters, ``Towards improvements in tomography,'' {\em New
+  Zealand Journal of Science}, vol.~14, no.~4, p.~883, 1971.
+
+\bibitem{suzuki1988comparison}
+S.~Suzuki and S.~Yamaguchi, ``Comparison between an image reconstruction method
+  of filtering backprojection and the filtered backprojection method,'' {\em
+  Applied optics}, vol.~27, no.~14, pp.~2867--2870, 1988.
+
+\bibitem{zeng1995can}
+G.~L. Zeng and G.~T. Gullberg, ``Can the backprojection filtering algorithm be
+  as accurate as the filtered backprojection algorithm?,'' in {\em Nuclear
+  Science Symposium and Medical Imaging Conference, 1994., 1994 IEEE Conference
+  Record}, vol.~3, pp.~1232--1236, IEEE, 1995.
+
+\bibitem{poludniowski2014proton}
+G.~Poludniowski, N.~Allinson, and P.~Evans, ``Proton computed tomography
+  reconstruction using a backprojection-then-filtering approach,'' {\em Physics
+  in medicine and biology}, vol.~59, no.~24, p.~7905, 2014.
+
+\bibitem{siddon1985fast}
+R.~L. Siddon, ``Fast calculation of the exact radiological path for a
+  three-dimensional ct array,'' {\em Medical physics}, vol.~12, no.~2,
+  pp.~252--255, 1985.
+
+\bibitem{zeng1994backprojection}
+G.~L. Zeng and G.~T. Gullberg, ``A backprojection filtering algorithm for a
+  spatially varying focal length collimator,'' {\em Medical Imaging, IEEE
+  Transactions on}, vol.~13, no.~3, pp.~549--556, 1994.
+
+\bibitem{agostinelli2003geant4}
+S.~Agostinelli, J.~Allison, K.~a. Amako, J.~Apostolakis, H.~Araujo, P.~Arce,
+  M.~Asai, D.~Axen, S.~Banerjee, G.~Barrand, {\em et~al.}, ``Geant4—a
+  simulation toolkit,'' {\em Nuclear instruments and methods in physics
+  research section A: Accelerators, Spectrometers, Detectors and Associated
+  Equipment}, vol.~506, no.~3, pp.~250--303, 2003.
+
+\bibitem{nist}
+N.~I. for Standards and Technology, ``Material composition database,'' 2015.
+\newblock http://www.physics.nist.gov/cgi-bin/Star/compos.pl.
+
+\bibitem{zhang16computation}
+S.~Zhang and J.~Jin, ``Computation of special functions. 1996,'' {\em Chapter},
+  vol.~16, pp.~620--624.
+
+\bibitem{f2matlab}
+B.~Barrowes, ``f2matlab - conversion of fortran90 code to matlab m-files,''
+  2012.
+\newblock http://uk.mathworks.com/matlabcentral/fileexchange/5260-f2matlab.
+
+\bibitem{li2006reconstruction}
+T.~Li, Z.~Liang, J.~V. Singanallur, T.~J. Satogata, D.~C. Williams, and R.~W.
+  Schulte, ``Reconstruction for proton computed tomography by tracing proton
+  trajectories: A monte carlo study,'' {\em Medical physics}, vol.~33, no.~3,
+  pp.~699--706, 2006.
+
+\bibitem{schulte2008maximum}
+R.~Schulte, S.~Penfold, J.~Tafas, and K.~Schubert, ``A maximum likelihood
+  proton path formalism for application in proton computed tomography,'' {\em
+  Medical physics}, vol.~35, no.~11, pp.~4849--4856, 2008.
+
+\bibitem{williams2004most}
+D.~Williams, ``The most likely path of an energetic charged particle through a
+  uniform medium,'' {\em Physics in medicine and biology}, vol.~49, no.~13,
+  p.~2899, 2004.
+
+\bibitem{jacobs1998fast}
+F.~Jacobs, E.~Sundermann, B.~De~Sutter, M.~Christiaens, and I.~Lemahieu, ``A
+  fast algorithm to calculate the exact radiological path through a pixel or
+  voxel space,'' {\em Journal of computing and information technology}, vol.~6,
+  no.~1, pp.~89--94, 1998.
+
+\bibitem{zeng2007image}
+G.~L. Zeng, ``Image reconstruction via the finite hilbert transform of the
+  derivative of the backprojection,'' {\em Medical physics}, vol.~34, no.~7,
+  pp.~2837--2843, 2007.
+
+\bibitem{ritlist}
+S.~Rit, R.~Clackdoyle, J.~Hoskovec, and J.~M. L{\'e}tang, ``List-mode proton ct
+  reconstruction using their most likely paths via the finite hilbert transform
+  of the derivative of the backprojection,''
+
+\bibitem{schulte2004conceptual}
+R.~Schulte, V.~Bashkirov, T.~Li, Z.~Liang, K.~Mueller, J.~Heimann, L.~R.
+  Johnson, B.~Keeney, H.~F. Sadrozinski, A.~Seiden, {\em et~al.}, ``Conceptual
+  design of a proton computed tomography system for applications in proton
+  radiation therapy,'' {\em Nuclear Science, IEEE Transactions on}, vol.~51,
+  no.~3, pp.~866--872, 2004.
+
+\bibitem{levin2005proton}
+W.~Levin, H.~Kooy, J.~Loeffler, and T.~DeLaney, ``Proton beam therapy,'' {\em
+  British journal of Cancer}, vol.~93, no.~8, pp.~849--854, 2005.
+
+\bibitem{chen1979treatment}
+G.~T. Chen, R.~P. Singh, J.~R. Castro, J.~T. Lyman, and J.~M. Quivey,
+  ``Treatment planning for heavy ion radiotherapy,'' {\em International Journal
+  of Radiation Oncology* Biology* Physics}, vol.~5, no.~10, pp.~1809--1819,
+  1979.
+
+\bibitem{mustafa1983relation}
+A.~Mustafa and D.~F. Jackson, ``The relation between x-ray ct numbers and
+  charged particle stopping powers and its significance for radiotherapy
+  treatment planning,'' {\em Physics in medicine and biology}, vol.~28, no.~2,
+  p.~169, 1983.
+
+\bibitem{cormack1963representation}
+A.~M. Cormack, ``Representation of a function by its line integrals, with some
+  radiological applications,'' {\em Journal of applied physics}, vol.~34,
+  no.~9, pp.~2722--2727, 1963.
+
+\bibitem{cormack1976quantitative}
+A.~Cormack and A.~Koehler, ``Quantitative proton tomography: preliminary
+  experiments,'' {\em Physics in medicine and biology}, vol.~21, no.~4, p.~560,
+  1976.
+
+\bibitem{hanson1978application}
+K.~Hanson, J.~Bradbury, T.~Cannon, R.~Hutson, D.~Laubacher, R.~Macek,
+  M.~Paciotti, and C.~Taylor, ``The application of protons to computed
+  tomography.,'' {\em Journal of Computer Assisted Tomography}, vol.~2, no.~5,
+  pp.~671--674, 1978.
+
+\bibitem{goethals2013proton}
+P.~Goethals and R.~Zimmermann, ``Proton therapy world market report,'' {\em
+  CSIntell Grez-Doiceau, Belgium}, 2013.
+
+\bibitem{schaffner1998precision}
+B.~Schaffner and E.~Pedroni, ``The precision of proton range calculations in
+  proton radiotherapy treatment planning: experimental verification of the
+  relation between ct-hu and proton stopping power,'' {\em Physics in medicine
+  and biology}, vol.~43, no.~6, p.~1579, 1998.
+
+\bibitem{wang2011bragg}
+D.~Wang, T.~R. Mackie, and W.~A. Tom{\'e}, ``Bragg peak prediction from
+  quantitative proton computed tomography using different path estimates,''
+  {\em Physics in medicine and biology}, vol.~56, no.~3, p.~587, 2011.
+
+\bibitem{depauw2011sensitivity}
+N.~Depauw and J.~Seco, ``Sensitivity study of proton radiography and comparison
+  with kv and mv x-ray imaging using geant4 monte carlo simulations,'' {\em
+  Physics in medicine and biology}, vol.~56, no.~8, p.~2407, 2011.
+
+\bibitem{poludniowski2015proton}
+G.~Poludniowski, N.~Allinson, and P.~Evans, ``Proton radiography and tomography
+  with application to proton therapy,'' {\em The British journal of radiology},
+  vol.~88, no.~1053, p.~20150134, 2015.
+
+\bibitem{zygmanski2000measurement}
+P.~Zygmanski, K.~P. Gall, M.~S. Rabin, and S.~J. Rosenthal, ``The measurement
+  of proton stopping power using proton-cone-beam computed tomography,'' {\em
+  Physics in medicine and biology}, vol.~45, no.~2, p.~511, 2000.
+
+\bibitem{testa2013proton}
+M.~Testa, J.~M. Verburg, M.~Rose, C.~H. Min, S.~Tang, E.~H. Bentefour,
+  H.~Paganetti, and H.-M. Lu, ``Proton radiography and proton computed
+  tomography based on time-resolved dose measurements,'' {\em Physics in
+  medicine and biology}, vol.~58, no.~22, p.~8215, 2013.
+
+\bibitem{seco2011proof}
+J.~Seco and N.~Depauw, ``Proof of principle study of the use of a cmos active
+  pixel sensor for proton radiography,'' {\em Medical physics}, vol.~38, no.~2,
+  pp.~622--623, 2011.
+
+\bibitem{sadrozinski2013development}
+H.-W. Sadrozinski, R.~Johnson, S.~Macafee, A.~Plumb, D.~Steinberg,
+  A.~Zatserklyaniy, V.~Bashkirov, R.~Hurley, and R.~Schulte, ``Development of a
+  head scanner for proton ct,'' {\em Nuclear Instruments and Methods in Physics
+  Research Section A: Accelerators, Spectrometers, Detectors and Associated
+  Equipment}, vol.~699, pp.~205--210, 2013.
+
+\bibitem{johnsonresults}
+R.~Johnson, V.~Bashkirov, V.~Giacometti, R.~Hurley, P.~Piersimoni, T.~Plautz,
+  H.~Sadrozinski, R.~Schulte, and K.~Schubert, ``Results from a pre-clinical
+  head scanner,'' {\em IEEE Nuclear Science Symposium and Medical Imaging
+  Conference}, 2014.
+
+\bibitem{schulte2005density}
+R.~W. Schulte, V.~Bashkirov, M.~C.~L. Klock, T.~Li, A.~J. Wroe, I.~Evseev,
+  D.~C. Williams, and T.~Satogata, ``Density resolution of proton computed
+  tomography,'' {\em Medical physics}, vol.~32, no.~4, pp.~1035--1046, 2005.
+
+\bibitem{nakamura2010review}
+K.~Nakamura, P.~D. Group, {\em et~al.}, ``Review of particle physics,'' {\em
+  Journal of Physics G: Nuclear and Particle Physics}, vol.~37, no.~7A,
+  p.~075021, 2010.
+
+\bibitem{cirrone2011monte}
+G.~A.~P. Cirrone, M.~Bucciolini, M.~Bruzzi, G.~Candiano, C.~Civinini,
+  G.~Cuttone, P.~Guarino, D.~L. Presti, S.~E. Mazzaglia, S.~Pallotta, {\em
+  et~al.}, ``Monte carlo evaluation of the filtered back projection method for
+  image reconstruction in proton computed tomography,'' {\em Nuclear
+  Instruments and Methods in Physics Research Section A: Accelerators,
+  Spectrometers, Detectors and Associated Equipment}, vol.~658, no.~1,
+  pp.~78--83, 2011.
+
+\bibitem{aso2007study}
+T.~Aso and K.~Fujisaka, ``Study of proton computed tomography using geant4
+  simulation,'' in {\em Nuclear Science Symposium Conference Record, 2007.
+  NSS'07. IEEE}, vol.~1, pp.~876--879, IEEE, 2007.
+
+\bibitem{rit2012distance}
+S.~Rit, N.~Freud, D.~Sarrut, and J.-M. Letang, ``Distance-driven binning for
+  proton ct filtered backprojection along most likely paths,'' in {\em Second
+  International Conference on Image Formation in X-Ray Computed Tomography},
+  p.~382, 2012.
+
+\bibitem{vanzi2013prima}
+E.~Vanzi, M.~Bruzzi, M.~Bucciolini, G.~P. Cirrone, C.~Civinini, G.~Cuttone,
+  D.~L. Presti, S.~Pallotta, C.~Pugliatti, N.~Randazzo, {\em et~al.}, ``The
+  prima collaboration: Preliminary results in fbp reconstruction of pct data,''
+  {\em Nuclear Instruments and Methods in Physics Research Section A:
+  Accelerators, Spectrometers, Detectors and Associated Equipment}, vol.~730,
+  pp.~184--190, 2013.
+
+\bibitem{kaczmarz1937angenaherte}
+S.~Kaczmarz, ``Angen{\"a}herte aufl{\"o}sung von systemen linearer
+  gleichungen,'' {\em Bulletin International de l’Academie Polonaise des
+  Sciences et des Lettres}, vol.~35, pp.~355--357, 1937.
+
+\bibitem{tanabe1971projection}
+K.~Tanabe, ``Projection method for solving a singular system of linear
+  equations and its applications,'' {\em Numerische Mathematik}, vol.~17,
+  no.~3, pp.~203--214, 1971.
+
+\bibitem{penfold2009characteristics}
+S.~N. Penfold, R.~W. Schulte, Y.~Censor, V.~Bashkirov, and A.~B. Rosenfeld,
+  ``Characteristics of proton ct images reconstructed with filtered
+  backprojection and iterative projection algorithms,'' in {\em Nuclear Science
+  Symposium Conference Record (NSS/MIC), 2009 IEEE}, pp.~4176--4180, IEEE,
+  2009.
+
+\bibitem{penfold2009more}
+S.~Penfold, A.~B. Rosenfeld, R.~Schulte, and K.~Schubert, ``A more accurate
+  reconstruction system matrix for quantitative proton computed tomography,''
+  {\em Medical physics}, vol.~36, no.~10, pp.~4511--4518, 2009.
+
+\bibitem{hurley2012water}
+R.~Hurley, R.~Schulte, V.~Bashkirov, A.~Wroe, A.~Ghebremedhin, H.-W.
+  Sadrozinski, V.~Rykalin, G.~Coutrakon, P.~Koss, and B.~Patyal,
+  ``Water-equivalent path length calibration of a prototype proton ct
+  scanner,'' {\em Medical physics}, vol.~39, no.~5, pp.~2438--2446, 2012.
+
+\bibitem{penfold2015techniques}
+S.~Penfold and Y.~Censor, ``Techniques in iterative proton ct image
+  reconstruction,'' {\em Sensing and Imaging}, vol.~16, no.~1, pp.~1--21, 2015.
+
+\bibitem{eyges1948multiple}
+L.~Eyges, ``Multiple scattering with energy loss,'' {\em Physical Review},
+  vol.~74, no.~10, p.~1534, 1948.
+
+\end{thebibliography}
